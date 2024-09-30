@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "properties": {
+        "name": "Café Store",
+        "instagramHandle": "cafe_store",
+        "websiteURL": "https://www.cafestore.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14631.547259896273!2d-46.6648948!3d-23.536573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50a119877791%3A0x43d0fac1f9f666e1!2sCaf%C3%A9%20Store!5e0!3m2!1sen!2sbr!4v1727582752016!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {},
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.539404591758075,
+          -46.65417140121144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "properties": {
+        "name": "Moka Clube — Pinheiros",
+        "instagramHandle": "mokaclube",
+        "websiteURL": "https://www.mokaclube.com.br/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.119338068495!2d-46.685879624471376!3d-23.564157061695305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57ce9c540c9f%3A0xdfad76e61c1beb4c!2sMoka%20Clube!5e0!3m2!1sen!2sbr!4v1727583386189!5m2!1sen!2sbr",
+        "roasters": [
+          22
+        ],
+        "espressoPrice": "0",
+        "veganMilk": false,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {},
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.564125694125188,
+          -46.683245319806595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "properties": {
+        "name": "Moka Clube — Moema",
+        "instagramHandle": "mokaclube",
+        "websiteURL": "https://www.mokaclube.com.br/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.9413891486365!2d-46.66903222446982!3d-23.606434863249977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5bd3892add77%3A0x7f69c8f3a8eaef17!2sMoka%20Clube%20-%20Moema!5e0!3m2!1sen!2sbr!4v1727583407943!5m2!1sen!2sbr",
+        "roasters": [
+          22
+        ],
+        "espressoPrice": "0",
+        "veganMilk": false,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {},
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.606427288939997,
+          -46.66641932672091
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4",
+      "properties": {
+        "name": "Wolff",
+        "instagramHandle": "wolff_cafe",
+        "websiteURL": "https://www.wolffcafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14628.896531846114!2d-46.6781443!3d-23.5603924!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59f2726b5f91%3A0x8b30ac27607097a3!2zV29sZmYgQ2Fmw6lzIEVzcGVjaWFpcyB8IEV4cGVyacOqbmNpYSBlIEhhcm1vbml6YcOnw7VlcyBHcsOhdGlzIHwgRW1ww7NyaW8!5e0!3m2!1sen!2sbr!4v1726786755725!5m2!1sen!2sbr",
+        "roasters": [
+          4
+        ],
+        "espressoPrice": "0",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {},
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.560363169844763,
+          -46.67814546512857
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "properties": {
+        "name": "Le Pool",
+        "instagramHandle": "lepool.coffee",
+        "websiteURL": "https://lepool.coffee",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.62464240944402!2d-46.67816066942327!3d-23.532708193551404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57fafa3aad0f%3A0xf11e30613d82e60a!2sRua%20Aimber%C3%AA%2C%20211%20-%20Perdizes%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005018-010!5e0!3m2!1sen!2sbr!4v1726705381894!5m2!1sen!2sbr",
+        "roasters": [
+          8
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.532791804168493,
+          -46.678125130130134
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "properties": {
+        "name": "Dora Coffee Roaster",
+        "instagramHandle": "doracoffeeroaster",
+        "websiteURL": "https://www.doracoffeeroaster.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.673919505736!2d-46.65140172457342!3d-23.54422777881157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59ac962c55cb%3A0x5badc7164f626d31!2sDora%20coffee%20shop!5e0!3m2!1sen!2sbr!4v1726707151818!5m2!1sen!2sbr",
+        "roasters": [
+          2
+        ],
+        "espressoPrice": "",
+        "veganMilk": false,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": false,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.544253887625597,
+          -46.64880116487988
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

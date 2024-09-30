@@ -1,0 +1,42 @@
+{
+    "type": "Feature",
+    "id": "",
+    "properties": {
+        "name": "",
+        "instagramHandle": "",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "",
+        "roasters": [],
+        "espressoPrice": "0",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+            "espresso": false,
+            "batchBrew": false,
+            "hario": false,
+            "chemex": false,
+            "aeropress": false,
+            "frenchPress": false,
+            "oriental": false,
+            "moka": false
+        },
+        "food": {
+            "desserts": false,
+            "breakfast": false,
+            "snacks": false,
+            "mainDishes": false,
+            "vegFood": false
+        },
+        "shop": {
+            "coffeeBeans": false,
+            "equipment": false,
+            "merch": false
+        }
+    },
+    "geometry": {
+        "coordinates": [],
+        "type": "Point"
+    }
+}

@@ -1,0 +1,173 @@
+.mapFilterContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    position: relative;
+}
+
+.leafletMap {
+    border-radius: 8px;
+    border: 1px solid rgb(226, 226, 226);
+    height: calc(100vh-120px);
+    box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+}
+
+.mapFilterContainer .leafletMap .activeArea {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.mapFilterContainer.activeFilterDetected .leafletMap .activeArea {
+    width: calc(100% - 400px);
+    right: 360px;
+}
+
+
+.leaflet-control-zoom {
+    display: flex;
+    flex-direction: column;
+}
+
+.leaflet-control-zoom.leaflet-bar.leaflet-control {
+    border: none;
+}
+
+.leaflet-touch .leaflet-bar a:first-child {
+    margin-bottom: 6px;
+}
+
+.leaflet-touch .leaflet-bar a.leaflet-control-zoom-in,
+a.leaflet-control-zoom-out,
+.leaflet-touch .leaflet-bar a:first-child,
+.leaflet-touch .leaflet-bar a:last-child {
+    line-height: 27px;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    background-color: var(--greenbutton);
+    box-shadow: 0px 0px 10px rgb(167, 167, 167);
+    color: white;
+}
+
+.locateButton {
+    position: relative;
+    height: 35px;
+    width: 32px;
+    bottom: 15px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    cursor: pointer;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    background-color: var(--greenbutton);
+    box-shadow: 0px 0px 10px rgb(167, 167, 167);
+}
+
+.locateButton svg {
+    margin: auto;
+    width: 21px;
+    height: 21px;
+    stroke: white !important;
+    fill: white !important;
+}
+
+.marker-cluster.leaflet-interactive div {
+    color: white;
+    background-color: var(--orange);
+}
+
+.marker-cluster.leaflet-interactive {
+    background-color: #ff9c336b;
+}
+
+.leaflet-popup,
+.leaflet-popup-content {
+    max-width: 300px;
+}
+
+.leaflet-container .leaflet-popup .leaflet-popup-content .popUpTitle {
+    display: block;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 15px;
+    padding-bottom: 0;
+}
+
+.leaflet-container .leaflet-popup .leaflet-popup-content-wrapper {
+    background: var(--grey);
+}
+
+.leaflet-container .leaflet-popup .leaflet-popup-content {
+    flex-direction: column;
+    display: flex;
+    min-width: 100px;
+    text-align: center;
+}
+
+.leaflet-container a.learnMore {
+    text-transform: lowercase;
+    display: flex;
+    cursor: pointer;
+    font-weight: 400;
+    color: rgb(60, 60, 60);
+    height: 40px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(226, 226, 226);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 4px rgb(167, 167, 167, 0.2);
+}
+
+div.leafletMap.leaflet-container {
+    font-family: inherit;
+}
+
+.leaflet-pane.leaflet-tile-pane {
+    filter: grayscale(10%) contrast(90%);
+}
+
+.filterToggler {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background-color: var(--greenbutton);
+    box-shadow: 0px 0px 10px rgb(167, 167, 167);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    cursor: pointer;
+}
+
+.filterToggler svg {
+    margin: auto;
+    stroke: white;
+    fill: white;
+}
+
+.copyrightLink {
+    text-decoration: underline;
+}
+
+.leaflet-top.leaflet-left .leaflet-control div.locateButton {
+    position: relative;
+    top: 75px;
+    width: 30px;
+}
+
+.mapFilterContainer.activeFilterDetected .leafletMap .activeArea {
+    width: 100%;
+    right: 0;
+  }

@@ -1,0 +1,628 @@
+{
+    "roasters": [
+        {
+            "name": "Crio",
+            "roasterID": 1,
+            "ownShops": [],
+            "ownCafes": [
+                17,
+                25
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Dora Coffee",
+            "roasterID": 2,
+            "ownShops": [
+                18
+            ],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                50
+            ]
+        },
+        {
+            "name": "Coffee Walk",
+            "roasterID": 3,
+            "ownShops": [],
+            "ownCafes": [
+                1,
+                18
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Wolff",
+            "roasterID": 4,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Corisco",
+            "roasterID": 5,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                2
+            ]
+        },
+        {
+            "name": "Takkø",
+            "roasterID": 6,
+            "ownShops": [],
+            "ownCafes": [
+                5
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Empirico Café",
+            "roasterID": 7,
+            "ownShops": [],
+            "ownCafes": [
+                7
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Le Pool",
+            "roasterID": 8,
+            "ownShops": [
+                5
+            ],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Café por Elas",
+            "roasterID": 9,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                8
+            ]
+        },
+        {
+            "name": "Café di Preto",
+            "roasterID": 10,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                8
+            ]
+        },
+        {
+            "name": "Aresta Café",
+            "roasterID": 11,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                9
+            ]
+        },
+        {
+            "name": "Tazza Café",
+            "roasterID": 12,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                9
+            ]
+        },
+        {
+            "name": "Campo Místico",
+            "roasterID": 13,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                10,
+                54
+            ]
+        },
+        {
+            "name": "Hastenreiter",
+            "roasterID": 14,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                10
+            ]
+        },
+        {
+            "name": "Treviso",
+            "roasterID": 15,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                10
+            ]
+        },
+        {
+            "name": "Tequila Café",
+            "roasterID": 16,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                10
+            ]
+        },
+        {
+            "name": "Sabino Coffee Co.",
+            "roasterID": 17,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                10
+            ]
+        },
+        {
+            "name": "Hel Cafés",
+            "roasterID": 18,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                10
+            ]
+        },
+        {
+            "name": "Waku Waku",
+            "roasterID": 19,
+            "ownShops": [],
+            "ownCafes": [
+                12
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Sofá",
+            "roasterID": 20,
+            "ownShops": [],
+            "ownCafes": [
+                13,
+                14,
+                15
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Amor Espresso",
+            "roasterID": 21,
+            "ownShops": [],
+            "ownCafes": [
+                16
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Moka Clube",
+            "roasterID": 22,
+            "ownShops": [
+                2,
+                3
+            ],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Geek Baristas",
+            "roasterID": 23,
+            "ownShops": [],
+            "ownCafes": [
+                20
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Fora Da Lei",
+            "roasterID": 24,
+            "ownShops": [],
+            "ownCafes": [
+                23
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Garagem do Café",
+            "roasterID": 25,
+            "ownShops": [],
+            "ownCafes": [
+                24
+            ],
+            "clientShops": [],
+            "clientCafes": [
+                39
+            ]
+        },
+        {
+            "name": "Woodbird Café",
+            "roasterID": 26,
+            "ownShops": [],
+            "ownCafes": [
+                27
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Freak",
+            "roasterID": 27,
+            "ownShops": [],
+            "ownCafes": [
+                29
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Kofi & Co.",
+            "roasterID": 28,
+            "ownShops": [],
+            "ownCafes": [
+                30
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Red Coffee",
+            "roasterID": 29,
+            "ownShops": [],
+            "ownCafes": [
+                32,
+                33
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "StreetMe Coffee",
+            "roasterID": 30,
+            "ownShops": [],
+            "ownCafes": [
+                34
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "True Coffee Inc.",
+            "roasterID": 31,
+            "ownShops": [],
+            "ownCafes": [
+                35,
+                36
+            ],
+            "clientShops": [],
+            "clientCafes": [
+                73
+            ]
+        },
+        {
+            "name": "KOF — King of The Fork",
+            "roasterID": 32,
+            "ownShops": [],
+            "ownCafes": [
+                37
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "J. Café",
+            "roasterID": 33,
+            "ownShops": [],
+            "ownCafes": [
+                38
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Dude Coffee Company",
+            "roasterID": 34,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                39
+            ]
+        },
+        {
+            "name": "Flor de Março",
+            "roasterID": 35,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                39
+            ]
+        },
+        {
+            "name": "Um Coffee Co.",
+            "roasterID": 36,
+            "ownShops": [],
+            "ownCafes": [
+                51,
+                52,
+                53
+            ],
+            "clientShops": [],
+            "clientCafes": [
+                39
+            ]
+        },
+        {
+            "name": "Unique Cafés",
+            "roasterID": 37,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                39
+            ]
+        },
+        {
+            "name": "Cupping Café",
+            "roasterID": 38,
+            "ownShops": [],
+            "ownCafes": [
+                40
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Teto Café",
+            "roasterID": 39,
+            "ownShops": [],
+            "ownCafes": [
+                41
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Coffee Lab",
+            "roasterID": 40,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Coado Shop",
+            "roasterID": 41,
+            "ownShops": [],
+            "ownCafes": [
+                45,
+                46,
+                47
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Siriema Coffee",
+            "roasterID": 42,
+            "ownShops": [],
+            "ownCafes": [
+                59
+            ],
+            "clientShops": [],
+            "clientCafes": [
+                48
+            ]
+        },
+        {
+            "name": "Bogo Café",
+            "roasterID": 43,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                49,
+                50
+            ]
+        },
+        {
+            "name": "4BEANS Coffee Co.",
+            "roasterID": 44,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                50
+            ]
+        },
+        {
+            "name": "Punga Cafés",
+            "roasterID": 45,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                50
+            ]
+        },
+        {
+            "name": "Ito Cafés",
+            "roasterID": 46,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                50
+            ]
+        },
+        {
+            "name": "Café da Rê",
+            "roasterID": 47,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                50
+            ]
+        },
+        {
+            "name": "Astronauta Café",
+            "roasterID": 48,
+            "ownShops": [],
+            "ownCafes": [
+                54
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Kento Café",
+            "roasterID": 49,
+            "ownShops": [],
+            "ownCafes": [
+                55
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Pato Rei",
+            "roasterID": 50,
+            "ownShops": [],
+            "ownCafes": [
+                56,
+                57
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Sensory Coffee Roasters",
+            "roasterID": 51,
+            "ownShops": [],
+            "ownCafes": [
+                60,
+                61
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Café zinn",
+            "roasterID": 52,
+            "ownShops": [],
+            "ownCafes": [
+                62,
+                63
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Soul Café",
+            "roasterID": 53,
+            "ownShops": [],
+            "ownCafes": [
+                64
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "URBE",
+            "roasterID": 54,
+            "ownShops": [],
+            "ownCafes": [
+                65,
+                66
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Il Barista",
+            "roasterID": 55,
+            "ownShops": [],
+            "ownCafes": [
+                55,
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Brazuca Coffee",
+            "roasterID": 56,
+            "ownShops": [],
+            "ownCafes": [
+                72
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Café Manacá",
+            "roasterID": 57,
+            "ownShops": [],
+            "ownCafes": [
+                73
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Mel de Uruçu",
+            "roasterID": 58,
+            "ownShops": [],
+            "ownCafes": [
+                74
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Catarina Coffee & Love",
+            "roasterID": 59,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Tocaya",
+            "roasterID": 60,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        }
+    ]
+}

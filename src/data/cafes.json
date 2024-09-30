@@ -1,0 +1,3708 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "properties": {
+        "name": "Coffee Walk — Pamplona",
+        "instagramHandle": "coffeewalkbr",
+        "websiteURL": "https://loja.coffeewalk.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14628.486801969952!2d-46.6544932!3d-23.5640722!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5938f5b19dcd%3A0xc0a76440012042d6!2sCoffee%20Walk%20Pamplona!5e0!3m2!1sen!2sbr!4v1726701543111!5m2!1sen!2sbr",
+        "roasters": [
+          3
+        ],
+        "espressoPrice": "7.20",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": false,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.564194510381576,
+          -46.654359759788406
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "properties": {
+        "name": "CAFE ffv",
+        "instagramHandle": "ffv_cafe",
+        "websiteURL": "https://festivalfv.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58525.52643697789!2d-46.730129751367215!3d-23.53806219999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59004700e11b%3A0xc8c8cf895c912d61!2sCAFE%20ffv!5e0!3m2!1sen!2sbr!4v1726703847978!5m2!1sen!2sbr",
+        "roasters": [
+          5
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.53805715297973,
+          -46.65392264469629
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "properties": {
+        "name": "Naïf Café",
+        "instagramHandle": "naif.cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.9173589548373!2d-46.65227652465625!3d-23.54162703572134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59e25a36c263%3A0x9379b568a2faa81!2zTmHDr2YgQ2Fmw6k!5e0!3m2!1sen!2sbr!4v1726704385200!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.540514347788285,
+          -46.65077584999675
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4",
+      "properties": {
+        "name": "Logico Café — República",
+        "instagramHandle": "logico_cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.61105400127371!2d-46.65090660768135!3d-23.54052664279227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5928f3a6fedf%3A0xaae39533ce24526!2sL%C3%B3gico%20Cafe!5e0!3m2!1sen!2sbr!4v1726704644346!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.544610248910576,
+          -46.64750597107856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "properties": {
+        "name": "Takkø Café",
+        "instagramHandle": "takkocafesp",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.60244738331892!2d-46.64974838492343!3d-23.54547742103314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce584858d005df%3A0xbb86628e2dec9b3b!2sTakk%C3%B8%20Caf%C3%A9%20-%20Vila%20Buarque!5e0!3m2!1sen!2sbr!4v1726704868856!5m2!1sen!2sbr",
+        "roasters": [
+          6
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.54554872891415,
+          -46.64953313749346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "properties": {
+        "name": "Bonita Café",
+        "instagramHandle": "_bonitacafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.60460866934514!2d-46.64472669296106!3d-23.544234278445806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59de96c3ac7d%3A0x2601dbed32e89d45!2sBonita%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1726705042507!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.544308045930336,
+          -46.64451815172121
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "properties": {
+        "name": "Empirico Café",
+        "instagramHandle": "empiricocafesp",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.5603208327666!2d-46.65777611810001!3d-23.548311324168733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59e28dde9dd7%3A0xe5fbce2bf018b880!2zRW1ww61yaWNvIENhZsOp!5e0!3m2!1sen!2sbr!4v1726705135238!5m2!1sen!2sbr",
+        "roasters": [
+          7
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.548311280369944,
+          -46.65291460669214
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8",
+      "properties": {
+        "name": "Lay Low Cafés Especiais",
+        "instagramHandle": "cafelaylow",
+        "websiteURL": "https://www.laylowcafes.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.604002770657!2d-46.648473301742925!3d-23.544582789447702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59b362339d23%3A0x63968cc50a9a31c8!2sLay%20Low%20Caf%C3%A9s%20Especiais!5e0!3m2!1sen!2sbr!4v1726705558177!5m2!1sen!2sbr",
+        "roasters": [
+          9,
+          10
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.544526848989644,
+          -46.64825067911222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9",
+      "properties": {
+        "name": "Aresta Café",
+        "instagramHandle": "aresta.cafe",
+        "websiteURL": "https://linktr.ee/arestacafe",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7315.622656609643!2d-46.66186488596927!3d-23.53928743516333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59005992b5bb%3A0x28f64e419a69b14c!2sAresta%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1726705724828!5m2!1sen!2sbr",
+        "roasters": [
+          11,
+          12
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.541558784032116,
+          -46.65229798520931
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10",
+      "properties": {
+        "name": "ZUD Café",
+        "instagramHandle": "zudcafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.811345401636!2d-46.658863127231584!3d-23.539286820410137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce583ee65927a7%3A0x5e1dafbc34e05fd5!2zWlVEIENhZsOp!5e0!3m2!1sen!2sbr!4v1726705880003!5m2!1sen!2sbr",
+        "roasters": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.539284577611493,
+          -46.654112812331554
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11",
+      "properties": {
+        "name": "O Café da Ponta",
+        "instagramHandle": "ocafedaponta",
+        "websiteURL": "https://linktr.ee/ocafedaponta",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.61154479368196!2d-46.65311716496945!3d-23.54024429505797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce595a645a500b%3A0x46ac74d64e02f3b0!2sLivraria%20Ponta%20de%20Lan%C3%A7a!5e0!3m2!1sen!2sbr!4v1726706295175!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.54024183580713,
+          -46.65283486306245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12",
+      "properties": {
+        "name": "Waku Waku",
+        "instagramHandle": "wakuwaku.coffee",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.748090070763!2d-46.6552133!3d-23.5415612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce592a20fa816b%3A0x67698aee4813facb!2sWaku%20Waku!5e0!3m2!1sen!2sbr!4v1726706414287!5m2!1sen!2sbr",
+        "roasters": [
+          19
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.54164664881739,
+          -46.65521800483473
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13",
+      "properties": {
+        "name": "Sofá Café — Vila Buarque",
+        "instagramHandle": "sofacafesp",
+        "websiteURL": "http://sofacafe.com.br/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.7481532442093!2d-46.65386540632267!3d-23.541558928667975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce593f154087f7%3A0x733cb55c51f7da15!2zU29mw6EgQ2Fmw6kgKyBGYXplZG9yZXMgZGUgQ2Fmw6k!5e0!3m2!1sen!2sbr!4v1726706768220!5m2!1sen!2sbr",
+        "roasters": [
+          20
+        ],
+        "espressoPrice": "",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.54156935529617,
+          -46.65032891646151
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14",
+      "properties": {
+        "name": "Sofá Café — Pinheiros",
+        "instagramHandle": "sofacafesp",
+        "websiteURL": "http://sofacafe.com.br/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.4564697018036!2d-46.69323662447102!3d-23.56960726189564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce570ac38957ed%3A0xbb88e3130ae30061!2zU29mw6EgQ2Fmw6kgUGluaGVpcm9z!5e0!3m2!1sen!2sbr!4v1727579880403!5m2!1sen!2sbr",
+        "roasters": [
+          20
+        ],
+        "espressoPrice": "",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.569618591063804,
+          -46.690639506532015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15",
+      "properties": {
+        "name": "Sofá Café Cubo",
+        "instagramHandle": "sofacafesp",
+        "websiteURL": "http://sofacafe.com.br/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.2181468487634!2d-46.689409224470204!3d-23.596508162884795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5790cc3badf5%3A0xc56ab8cd7f4cf935!2zU29mw6EgQ2Fmw6kgQ3Vibw!5e0!3m2!1sen!2sbr!4v1727579959697!5m2!1sen!2sbr",
+        "roasters": [
+          20
+        ],
+        "espressoPrice": "",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.59652359078971,
+          -46.686828122659804
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16",
+      "properties": {
+        "name": "Amor Espresso",
+        "instagramHandle": "amor_espresso",
+        "websiteURL": "https://amorespresso.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1122359376486!2d-46.657422224184764!3d-23.564412178797845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59266b607149%3A0xa1da0152ff4cf9c!2sAmor%20Espresso!5e0!3m2!1sen!2sbr!4v1726728921607!5m2!1sen!2sbr",
+        "roasters": [
+          21
+        ],
+        "espressoPrice": "",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56440565050793,
+          -46.65484245574869
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17",
+      "properties": {
+        "name": "Crio Café",
+        "instagramHandle": "crio.cafe",
+        "websiteURL": "https://crio.cafe",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1426269478206!2d-46.65856712457305!3d-23.563320478798392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c8cc6aaa2d%3A0x6cac97b55c9aefc4!2sCrio%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1726707060842!5m2!1sen!2sbr",
+        "roasters": [
+          1
+        ],
+        "espressoPrice": "6",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.563459714051188,
+          -46.65596980620595
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18",
+      "properties": {
+        "name": "Coffee Walk — Pinheiros",
+        "instagramHandle": "coffeewalkbr",
+        "websiteURL": "https://loja.coffeewalk.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d389.54538444878443!2d-46.68533492337029!3d-23.565166592497636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57bc5e683511%3A0x68135163b58b5742!2sCoffee%20Walk!5e0!3m2!1sen!2sbr!4v1727568548639!5m2!1sen!2sbr",
+        "roasters": [
+          3
+        ],
+        "espressoPrice": "7.20",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": false,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56507493548547,
+          -46.685261783436374
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19",
+      "properties": {
+        "name": "Logico Café — Wizard",
+        "instagramHandle": "logico_cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.3928260585567!2d-46.69056802447165!3d-23.554331061334352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57002ca80b87%3A0x6e30c884de91c630!2zTMOzZ2ljbyBjYWbDqSBXaXNhcmQ!5e0!3m2!1sen!2sbr!4v1727573889214!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.554344346070323,
+          -46.68798544521403
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20",
+      "properties": {
+        "name": "Geek Baristas",
+        "instagramHandle": "geekbaristas",
+        "websiteURL": "https://linktr.ee/geekbaristassc",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227.87006252946367!2d-46.3242200976802!3d-23.96323352991198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce0363846998e5%3A0xb5e5668cc924c973!2sGeek%20Baristas%20Coffee!5e0!3m2!1sen!2sbr!4v1727584726520!5m2!1sen!2sbr",
+        "roasters": [
+          23
+        ],
+        "espressoPrice": "7.80",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.963089838704853,
+          -46.32399948617862
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21",
+      "properties": {
+        "name": "Black Coffee and Roasters",
+        "instagramHandle": "blackcoffeeandroasters",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1126.6892251410877!2d-46.34345645853818!3d-23.96565214311731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce033dd703e6a3%3A0xff1beebc388752fd!2sBlack%20Coffee%20and%20Roasters!5e0!3m2!1sen!2sbr!4v1727585661422!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.9653325019919,
+          -46.342279434372244
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22",
+      "properties": {
+        "name": "Cafeteria Do Museu",
+        "instagramHandle": "museudocafe",
+        "websiteURL": "https://www.museudocafe.org.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d273.2500453386417!2d-46.33031618190473!3d-23.932504413656066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce05003a1ea2d1%3A0xe2ade046d6ae052f!2sCafeteria%20Do%20Museu!5e0!3m2!1sen!2sbr!4v1727586199760!5m2!1sen!2sbr",
+        "roasters": [
+          55
+        ],
+        "espressoPrice": "8",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.932552514654418,
+          -46.33009315814871
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23",
+      "properties": {
+        "name": "Fora da Lei",
+        "instagramHandle": "foradalei_cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d370.85813717280934!2d-46.64475342313329!3d-23.57341007016528!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c765d38d83%3A0x7270f6732a8c4a0b!2sFora%20da%20Lei%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727586649615!5m2!1sen!2sbr",
+        "roasters": [
+          24
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.573439431323266,
+          -46.644595882804204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24",
+      "properties": {
+        "name": "Garagem do Café",
+        "instagramHandle": "garagemdocafe",
+        "websiteURL": "https://garagemdocafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.833814470179!2d-46.65186202447086!3d-23.574411362072166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5948613aa52f%3A0x567f26236aa42fb3!2sGaragem%20do%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727586914376!5m2!1sen!2sbr",
+        "roasters": [
+          25
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": true,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.5743978283978,
+          -46.64925022155096
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25",
+      "properties": {
+        "name": "Crio Café — Vila Mariana",
+        "instagramHandle": "crio.cafe",
+        "websiteURL": "https://crio.cafe",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7313.702606085068!2d-46.6494197467226!3d-23.573783398046274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59000b68e485%3A0xa31b336e021af1ae!2sCrio%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727587323783!5m2!1sen!2sbr",
+        "roasters": [
+          1
+        ],
+        "espressoPrice": "6",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.577508438607012,
+          -46.64273402789754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26",
+      "properties": {
+        "name": "Parahy Cafés Especiais",
+        "instagramHandle": "parahycafes",
+        "websiteURL": "https://www.parahycafes.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.5651006285719!2d-46.64580880365456!3d-23.56694900386148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59ec62abf9ef%3A0xf3d8908b829b34e5!2sParahy%20Caf%C3%A9s%20Especiais!5e0!3m2!1sen!2sbr!4v1727587501141!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.566978813115476,
+          -46.64583897851337
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27",
+      "properties": {
+        "name": "Woodbird Café",
+        "instagramHandle": "woodbirdcafe",
+        "websiteURL": "https://woodbirdcafe.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d342.84083842601746!2d-46.64539465327387!3d-23.572970367448576!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6f94fcf5233f3845%3A0xad490a0bcc58f257!2sWoodBird%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727605565342!5m2!1sen!2sbr",
+        "roasters": [
+          26
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.57300770510374,
+          -46.64537755374279
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28",
+      "properties": {
+        "name": "Capi Café",
+        "instagramHandle": "capi.cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.660478570064!2d-46.650473899999994!3d-23.5806345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5952a693c171%3A0xd0eaaf1c11a04a14!2sCafeteria%20Capi%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727607225191!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "8.50",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": true,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.58074410185285,
+          -46.650445470155226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29",
+      "properties": {
+        "name": "Freak Café",
+        "instagramHandle": "freak.cafe",
+        "websiteURL": "https://www.freakcafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d603.693749743165!2d-46.65899796943179!3d-23.608326193118643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a119af0b11b%3A0x62c0a9297b3256f0!2sFreak%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727608506482!5m2!1sen!2sbr",
+        "roasters": [
+          27
+        ],
+        "espressoPrice": "7.20",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.60829875778267,
+          -46.658868280773206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30",
+      "properties": {
+        "name": "Kofi & Co.",
+        "instagramHandle": "kofiandco",
+        "websiteURL": "https://www.kofiandco.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.45314970828917!2d-46.70559717629383!3d-23.63120215641173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50e0c0e4aa4d%3A0x2c2008e3a087351d!2sKofi%20%26%20Co%20-%20Caf%C3%A9%20e%20Brunch!5e0!3m2!1sen!2sbr!4v1727655531186!5m2!1sen!2sbr",
+        "roasters": [
+          28
+        ],
+        "espressoPrice": "8.90",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": true,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": true
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.631263199882863,
+          -46.70534251301581
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31",
+      "properties": {
+        "name": "Casa Hario",
+        "instagramHandle": "casahario",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14626.251132264535!2d-46.679153799999995!3d-23.5841413!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce576fae9b66ab%3A0xb92435cb886ecf51!2sCasa%20Hario!5e0!3m2!1sen!2sbr!4v1727656402120!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "0",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": true,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.584175852179595,
+          -46.67927239079235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32",
+      "properties": {
+        "name": "Red Coffee & Co. — Santo Amaro",
+        "instagramHandle": "redcoffeebrasil",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27029.01339835322!2d-46.711527649577775!3d-23.649375528367347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce51988e287795%3A0x6d613dbac28729cd!2sRed%20Coffee%20%26%20Co.!5e0!3m2!1sen!2sbr!4v1727657287107!5m2!1sen!2sbr",
+        "roasters": [
+          29
+        ],
+        "espressoPrice": "7.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.649730207475127,
+          -46.698915789967025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33",
+      "properties": {
+        "name": "Red Coffee & Co. — Pinheiros",
+        "instagramHandle": "redcoffeebrasilredcoffeebrasil_pinheiros",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.5712366464226!2d-46.6798526642228!3d-23.563422520485503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57271507c1bb%3A0x199eab08a15ca2d4!2sRED%20Coffee%20%26%20Co!5e0!3m2!1sen!2sbr!4v1727657410618!5m2!1sen!2sbr",
+        "roasters": [
+          29
+        ],
+        "espressoPrice": "7.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56337457838323,
+          -46.67963741699421
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34",
+      "properties": {
+        "name": "StreetMe Coffee",
+        "instagramHandle": "streetme.avlins",
+        "websiteURL": "https://www.streetme.coffee",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29254.733336534842!2d-46.6230786!3d-23.5741294!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce590057512a5d%3A0xa0f39b6857ed3063!2sStreetMe%20Coffee!5e0!3m2!1sen!2sbr!4v1727658118340!5m2!1sen!2sbr",
+        "roasters": [
+          30
+        ],
+        "espressoPrice": "8.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.57416514672263,
+          -46.62294895468572
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35",
+      "properties": {
+        "name": "True Coffee Inc. — Cidade Monções",
+        "instagramHandle": "truecoffeeinc",
+        "websiteURL": "https://truecoffeeinc.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.50158905374192!2d-46.69128649375373!3d-23.60342110008638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57ef9bd5fd97%3A0x99e28152e71de034!2sTrue%20Coffee%20Inc.!5e0!3m2!1sen!2sbr!4v1727658877472!5m2!1sen!2sbr",
+        "roasters": [
+          31
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": false,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.6032957516366,
+          -46.69121742693306
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36",
+      "properties": {
+        "name": "Hangar 82",
+        "instagramHandle": "hangar82tattoo",
+        "websiteURL": "https://www.hangar82tattoo.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1827.9670884277168!2d-46.6921276!3d-23.6066935!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50cad6591c95%3A0xbab57a9b57befd5e!2sHangar%2082%20Brooklin!5e0!3m2!1sen!2sbr!4v1727659187684!5m2!1sen!2sbr",
+        "roasters": [
+          31
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.606692885565458,
+          -46.69227445093332
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37",
+      "properties": {
+        "name": "KOF - King of The Fork",
+        "instagramHandle": "kingofthefork",
+        "websiteURL": "https://www.kingofthefork.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.295906222098!2d-46.68634581912714!3d-23.564034591914506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579dc0010163%3A0x7ac8ce27038db15a!2sKOF%20-%20King%20of%20The%20Fork!5e0!3m2!1sen!2sbr!4v1727659661731!5m2!1sen!2sbr",
+        "roasters": [
+          32
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.564025765472586,
+          -46.68378559726225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38",
+      "properties": {
+        "name": "J. Café",
+        "instagramHandle": "jcafesp",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1363.2139399655498!2d-46.724153552333!3d-23.521227835497204!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef90459362117%3A0x21fc2c589c9fd261!2zSi4gQ2Fmw6kgTWljcm90b3JyZWZhw6fDo28!5e0!3m2!1sen!2sbr!4v1727660268400!5m2!1sen!2sbr",
+        "roasters": [
+          33
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.521110531280392,
+          -46.724049606120474
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39",
+      "properties": {
+        "name": "EAP Café",
+        "instagramHandle": "eapcafe",
+        "websiteURL": "https://www.eapcafe.com.br/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2344071428424!2d-46.70245582418503!3d-23.560023278800795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce571099feec91%3A0x3b899677972038ae!2zRUFQIENhZsOp!5e0!3m2!1sen!2sbr!4v1727661148078!5m2!1sen!2sbr",
+        "roasters": [
+          25,
+          34,
+          35,
+          36,
+          37
+        ],
+        "espressoPrice": "8",
+        "veganMilk": false,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56004303030931,
+          -46.69988443105246
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40",
+      "properties": {
+        "name": "Cupping Café",
+        "instagramHandle": "cuppingcafe",
+        "websiteURL": "https://www.cuppingcafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d228.58597506433628!2d-46.688913936211016!3d-23.554950044039973!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579634688e7b%3A0x1fda38b1e10d7651!2sCupping%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727662254287!5m2!1sen!2sbr",
+        "roasters": [
+          38
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.554951888051196,
+          -46.688819388339724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41",
+      "properties": {
+        "name": "Teto Café",
+        "instagramHandle": "tetocafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.578045564411!2d-46.69165303524591!3d-23.55950872628275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57d7de53e8df%3A0x3b5b1a05055a98!2sTeto%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727663851947!5m2!1sen!2sbr",
+        "roasters": [
+          39
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.55957080680487,
+          -46.691620178169664
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42",
+      "properties": {
+        "name": "Coffee Lab — Vila Madalena",
+        "instagramHandle": "coffeelab_br",
+        "websiteURL": "https://www.coffeelab.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5689.502268636412!2d-46.69508247760091!3d-23.55552985757301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57bd09c61f33%3A0x190b28e1510a77d0!2sCoffee%20Lab!5e0!3m2!1sen!2sbr!4v1727663266928!5m2!1sen!2sbr",
+        "roasters": [
+          40
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.555981868378048,
+          -46.69132116379694
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43",
+      "properties": {
+        "name": "Coffee Lab — Pinheiros",
+        "instagramHandle": "coffeelab_br",
+        "websiteURL": "https://www.coffeelab.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.039494784316!2d-46.69832022418483!3d-23.567024978796024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce570036d7fc7f%3A0xffe102de03cb1890!2sCoffee%20Lab%202!5e0!3m2!1sen!2sbr!4v1727663477003!5m2!1sen!2sbr",
+        "roasters": [
+          40
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.566995454546344,
+          -46.695680927477255
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44",
+      "properties": {
+        "name": "Studios Coffee",
+        "instagramHandle": "studioscoffee",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d347.6658160231753!2d-46.68049696918033!3d-23.558198029679307!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579b4a26aaab%3A0xa2e26a780a0da998!2sStudios%20Coffee!5e0!3m2!1sen!2sbr!4v1727664023943!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": false,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.558188680758047,
+          -46.68049084980565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45",
+      "properties": {
+        "name": "Coado Shop — Barra Funda",
+        "instagramHandle": "coadoshopcafe",
+        "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58531.15823885517!2d-46.75551652908326!3d-23.525401886317294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57d714fd2669%3A0x195769bbf1455212!2sCoado%20Shop%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727664802296!5m2!1sen!2sbr",
+        "roasters": [
+          41
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.52538946219006,
+          -46.679387217411346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46",
+      "properties": {
+        "name": "Coado Shop — Higienópolis",
+        "instagramHandle": "coadoshopcafe",
+        "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13871.788628540167!2d-46.665067707162414!3d-23.560443906439602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59007db9ab27%3A0x520d6753fca73867!2sCoado%20Shop%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727664940282!5m2!1sen!2sbr",
+        "roasters": [
+          41
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.555657034297663,
+          -46.66599500868005
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47",
+      "properties": {
+        "name": "Coado Shop — Vila Madalena",
+        "instagramHandle": "coadoshopcafe",
+        "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.13955348380892!2d-46.69083406473584!3d-23.54683042259269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57c0395bdc2d%3A0xfbba3fe9d27e267f!2sCasa%20Marx!5e0!3m2!1sen!2sbr!4v1727665036250!5m2!1sen!2sbr",
+        "roasters": [
+          41
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.547134531288318,
+          -46.69068396489523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48",
+      "properties": {
+        "name": "Tectonica",
+        "instagramHandle": "tectonica.sp",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1095.1230432375141!2d-46.68774629013656!3d-23.52904778366347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5796d4f208b9%3A0xf2b2f1d77e74c213!2sTectonica%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727665550927!5m2!1sen!2sbr",
+        "roasters": [
+          42
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.529041887527995,
+          -46.686326633719034
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49",
+      "properties": {
+        "name": "Bogo Café",
+        "instagramHandle": "bogo.cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d479.83833533593867!2d-46.65544297530576!3d-23.572114042389195!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59ef1e959a9f%3A0x5537fe87fdbabbc2!2sBogo%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727665977033!5m2!1sen!2sbr",
+        "roasters": [
+          43
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.572031462461414,
+          -46.65537117858129
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50",
+      "properties": {
+        "name": "Clemente Café",
+        "instagramHandle": "clementecafe.sp",
+        "websiteURL": "https://linkr.bio/kw2x06",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d228.51417646838289!2d-46.639707888343246!3d-23.596196886722275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a2fb76127c9%3A0x7473fc05cda68c0b!2sClemente%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727666924890!5m2!1sen!2sbr",
+        "roasters": [
+          46,
+          47,
+          2,
+          44,
+          45,
+          43
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": true,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.59617138551533,
+          -46.63971124110347
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51",
+      "properties": {
+        "name": "Um Coffee Co. — Bom Retiro",
+        "instagramHandle": "umcoffeeco",
+        "websiteURL": "https://umcoffeeco.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7316.273396889357!2d-46.65078532375508!3d-23.527585299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce58661da28f81%3A0x85d4a1231e5d0d51!2sUm%20Coffee%20Co.!5e0!3m2!1sen!2sbr!4v1727667715636!5m2!1sen!2sbr",
+        "roasters": [
+          36
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.527564183504264,
+          -46.64144687344343
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52",
+      "properties": {
+        "name": "Um Coffee Co. — Pinheiros",
+        "instagramHandle": "umcoffeeco",
+        "websiteURL": "https://umcoffeeco.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d228.56168615601587!2d-46.69905049619688!3d-23.568911149160336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbr!4v1727667626625!5m2!1sen!2sbr",
+        "roasters": [
+          36
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.568746936626646,
+          -46.698882274090494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53",
+      "properties": {
+        "name": "Um Coffee Co. — Jd. Paulistano",
+        "instagramHandle": "umcoffeeco",
+        "websiteURL": "https://umcoffeeco.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58511.85293417158!2d-46.75262258636159!3d-23.568773599999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5744eafb8269%3A0xd2f7797ea234265a!2sUm%20Coffee%20Co.!5e0!3m2!1sen!2sbr!4v1727667767690!5m2!1sen!2sbr",
+        "roasters": [
+          36
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.57140903390938,
+          -46.68119931982939
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54",
+      "properties": {
+        "name": "Astronauta Café",
+        "instagramHandle": "astronautacafe",
+        "websiteURL": "https://linktr.ee/astronautacafe",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d809.7049838156745!2d-46.644233637348115!3d-23.585945087659784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59353ec6b713%3A0x41d43ce553a97735!2sAstronauta%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727669289711!5m2!1sen!2sbr",
+        "roasters": [
+          48,
+          13
+        ],
+        "espressoPrice": "6.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.58591024930998,
+          -46.643703830931095
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55",
+      "properties": {
+        "name": "Kento Café",
+        "instagramHandle": "kentocafe",
+        "websiteURL": "https://www.kentocafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14629.402024928106!2d-46.6347471!3d-23.5558518!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59001675a723%3A0x84b558d2b16e1c53!2sKento%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727669987059!5m2!1sen!2sbr",
+        "roasters": [
+          49
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.555852057984417,
+          -46.63473732429917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56",
+      "properties": {
+        "name": "Pato Rei Berrini",
+        "instagramHandle": "patoreisp",
+        "websiteURL": "https://patoreisp.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.49581755855593!2d-46.69342293194656!3d-23.606732799999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce572d9a7aad0d%3A0x6ea7ac91fcf4e26c!2sPato%20Rei%20Berrini%20(Coffee%20Brewers)!5e0!3m2!1sen!2sbr!4v1727670656644!5m2!1sen!2sbr",
+        "roasters": [
+          50
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.606729454386574,
+          -46.69314727351669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57",
+      "properties": {
+        "name": "Pato Rei Pinheiros",
+        "instagramHandle": "patoreisp",
+        "websiteURL": "https://patoreisp.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.57581905596462!2d-46.698115631946564!3d-23.560788599999984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579c311aeee5%3A0xd3d7d1d2090111a0!2sPato%20Rei%20Pinheiros%20(Kissaten)!5e0!3m2!1sen!2sbr!4v1727670628138!5m2!1sen!2sbr",
+        "roasters": [
+          50
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.560783375190056,
+          -46.69782997661725
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58",
+      "properties": {
+        "name": "Visconde Cafés Especiais",
+        "instagramHandle": "visconde_cafesespeciais",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.54672814646185!2d-46.58813916809416!3d-23.577505036269788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5d4354c72d5b%3A0x8531ad8f4a94ad4d!2sVisconde%20caf%C3%A9s%20especiais!5e0!3m2!1sen!2sbr!4v1727675272497!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.5775861599914,
+          -46.58794873110932
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59",
+      "properties": {
+        "name": "Siriema",
+        "instagramHandle": "siriemacoffee",
+        "websiteURL": "https://siriemacoffeeroasters.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14628.807861253714!2d-46.6791183!3d-23.5611888!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce571b939b7f61%3A0x4a04d871fdbe9170!2sSiriema%20Coffee%20Roasters!5e0!3m2!1sen!2sbr!4v1727675558985!5m2!1sen!2sbr",
+        "roasters": [
+          42
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": false,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": false,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56118623821874,
+          -46.679120109044646
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60",
+      "properties": {
+        "name": "Sensory Coffee Roasters — Pinheiros",
+        "instagramHandle": "sensorycoffeeroasters",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58515.18962760077!2d-46.76696419715884!3d-23.56128269470154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57a26edb673f%3A0xf9b85fb4edfbb750!2sSensory%20Coffee%20Roasters!5e0!3m2!1sen!2sbr!4v1727675883843!5m2!1sen!2sbr",
+        "roasters": [
+          51
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.561283081674855,
+          -46.690750031515655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61",
+      "properties": {
+        "name": "Sensory Coffee Roasters — Jardins",
+        "instagramHandle": "sensorycoffeeroasters",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.2665519629684!2d-46.665105160991125!3d-23.5660655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59fb7edc423d%3A0x9e27ab3d6398d169!2sSensory%20Coffee!5e0!3m2!1sen!2sbr!4v1727676020375!5m2!1sen!2sbr",
+        "roasters": [
+          51
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.566066113736827,
+          -46.66441583319397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62",
+      "properties": {
+        "name": "café zinn Experience",
+        "instagramHandle": "ocafezinn",
+        "websiteURL": "https://www.cafezinn.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6041.372650059513!2d-46.671127615577014!3d-23.563979231137186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59364802b0e3%3A0x907ce6d2dc9b68bb!2scaf%C3%A9%20zinn!5e0!3m2!1sen!2sbr!4v1727676451085!5m2!1sen!2sbr",
+        "roasters": [
+          52
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.564196804452955,
+          -46.66846799632328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63",
+      "properties": {
+        "name": "café zinn — Shopping Iguatemi",
+        "instagramHandle": "ocafezinn",
+        "websiteURL": "https://www.cafezinn.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14627.041899830587!2d-46.6881912!3d-23.5770446!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5773c105c94d%3A0x5e827f021810abac!2scaf%C3%A9%20zinn%20-%20Shopping%20Iguatemi%20S%C3%A3o%20Paulo!5e0!3m2!1sen!2sbr!4v1727676745230!5m2!1sen!2sbr",
+        "roasters": [
+          52
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.57704588807694,
+          -46.68818718043041
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64",
+      "properties": {
+        "name": "Soul Café",
+        "instagramHandle": "soulcafesp",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.1654397649913!2d-46.660403715075184!3d-23.555949898244986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59cd2c58d4eb%3A0xee07da1683de8f5b!2sSoul%20Caf%C3%A9%20SP!5e0!3m2!1sen!2sbr!4v1727677122446!5m2!1sen!2sbr",
+        "roasters": [
+          53
+        ],
+        "espressoPrice": "6.90",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.556788781684066,
+          -46.65896700208953
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "65",
+      "properties": {
+        "name": "URBE Café Bar — Consolação",
+        "instagramHandle": "urbecafebar",
+        "websiteURL": "https://www.urbecafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.3028096223256!2d-46.66230261888371!3d-23.55756563931555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce583329c0083b%3A0x8d3ba7fad29a1ec1!2sUrbe%20Cafe%20Bar!5e0!3m2!1sen!2sbr!4v1727677343245!5m2!1sen!2sbr",
+        "roasters": [
+          54
+        ],
+        "espressoPrice": "7.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.555975294127062,
+          -46.65838038425944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78",
+      "properties": {
+        "name": "URBE Café Bar — Jardins",
+        "instagramHandle": "urbecafebar",
+        "websiteURL": "https://www.urbecafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d434.250581117568!2d-46.664153502611356!3d-23.558822616105893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5995d67c3075%3A0xfb5a677a9ff0087e!2sURBE%20CAF%C3%89%20BAR!5e0!3m2!1sen!2sbr!4v1727677471160!5m2!1sen!2sbr",
+        "roasters": [
+          54
+        ],
+        "espressoPrice": "7.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.558747881758844,
+          -46.66401592119396
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66",
+      "properties": {
+        "name": "O Segredo da Felicidade",
+        "instagramHandle": "osegredodafelicidade",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d904.4625927500248!2d-46.56931963028964!3d-23.616442805101194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ceeb1fa9f47%3A0xdfbafc36d1f5050f!2sO%20Segredo%20da%20Felicidade!5e0!3m2!1sen!2sbr!4v1727677883990!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "6.90",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.616008665670215,
+          -46.56883917335809
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67",
+      "properties": {
+        "name": "Il Barista | B3 — Centro Histórico",
+        "instagramHandle": "ilbaristacafes",
+        "websiteURL": "http://www.ilbarista.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117004.40177397795!2d-46.81986945664061!3d-23.590429900000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5967ea5d927b%3A0x70b3242382e07b39!2sIL%20BARISTA%20%7C%20B3-%20CENTRO%20HIST%C3%93RICO!5e0!3m2!1sen!2sbr!4v1727678361012!5m2!1sen!2sbr",
+        "roasters": [
+          55
+        ],
+        "espressoPrice": "10",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.545295602385064,
+          -46.63392738994057
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68",
+      "properties": {
+        "name": "Il Barista | Vila Nova : Cafeteria, Escola e Torrefação",
+        "instagramHandle": "ilbaristacafes",
+        "websiteURL": "http://www.ilbarista.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d272.3915339496548!2d-46.67576685366474!3d-23.59030943915754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce575a1b4f68b9%3A0x591092045df116f1!2sIL%20BARISTA%20CAF%C3%89S%20ESPECIAIS%20%7C%20VILA%20NOVA%20%3A%20Casa%2C%20Torrefa%C3%A7%C3%A3o%20e%20Escola%20do%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727678602393!5m2!1sen!2sbr",
+        "roasters": [
+          55
+        ],
+        "espressoPrice": "10",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.590432128783156,
+          -46.6756733389624
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69",
+      "properties": {
+        "name": "Il Barista | Morumbi Shopping",
+        "instagramHandle": "ilbaristacafes",
+        "websiteURL": "http://www.ilbarista.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d715.3493626912726!2d-46.69924472654451!3d-23.623670768783665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50c4c2ed8ead%3A0x75f586e9eb5457f1!2sIL%20BARISTA%20%7C%20MORUMBI%20SHOPPING!5e0!3m2!1sen!2sbr!4v1727679070337!5m2!1sen!2sbr",
+        "roasters": [
+          55
+        ],
+        "espressoPrice": "10",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.62371982008635,
+          -46.698732433083215
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70",
+      "properties": {
+        "name": "Il Barista | Shops Jardins",
+        "instagramHandle": "ilbaristacafes",
+        "websiteURL": "http://www.ilbarista.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14628.427471984607!2d-46.6690487!3d-23.564605!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5901fcfe4c9d%3A0xfa7331cc33284fe8!2sIL%20BARISTA%20%7C%20SHOPS%20JARDINS!5e0!3m2!1sen!2sbr!4v1727678982205!5m2!1sen!2sbr",
+        "roasters": [
+          55
+        ],
+        "espressoPrice": "10",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56460705741785,
+          -46.669047043283655
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71",
+      "properties": {
+        "name": "Il Barista | Shopping Cidade Jardim",
+        "instagramHandle": "ilbaristacafes",
+        "websiteURL": "http://www.ilbarista.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14624.535737381057!2d-46.6977293!3d-23.5995291!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce571a0fa2132d%3A0xba9b799e5acf1559!2sIL%20BARISTA%20%7C%20SHOPPING%20CIDADE%20JARDIM!5e0!3m2!1sen!2sbr!4v1727678947048!5m2!1sen!2sbr",
+        "roasters": [
+          55
+        ],
+        "espressoPrice": "10",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.599524375749162,
+          -46.6977326441826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72",
+      "properties": {
+        "name": "Brazuca Coffee",
+        "instagramHandle": "brazucacoffeebr",
+        "websiteURL": "https://brazucacoffee.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.49792201640327!2d-46.691957379859026!3d-23.605525307001116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57c93debcfa1%3A0x915088bde599c3ee!2sBrazuca%20Coffee%20-%20Brooklin!5e0!3m2!1sen!2sbr!4v1727679827504!5m2!1sen!2sbr",
+        "roasters": [
+          56
+        ],
+        "espressoPrice": "7.50",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": true,
+        "foreignCoffee": true,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.605512710401833,
+          -46.69155974219123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73",
+      "properties": {
+        "name": "Café Manacá",
+        "instagramHandle": "cafe_manaca",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d828.9104483059638!2d-46.62089159999272!3d-23.389162360087735!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef1a7b7be19eb%3A0x79093382507d6198!2zQ2Fmw6kgTWFuYWPDoQ!5e0!3m2!1sen!2sbr!4v1727680273740!5m2!1sen!2sbr",
+        "roasters": [
+          57,
+          31
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.389060941262315,
+          -46.620821172431405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74",
+      "properties": {
+        "name": "Mel de Uruçu",
+        "instagramHandle": "meldeurucucafe",
+        "websiteURL": "https://www.meldeurucucafe.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6073.4051310806335!2d-46.73366792931331!3d-23.628001075181523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce513d0ecab651%3A0x234b108e77b9fe76!2sMel%20de%20Uru%C3%A7u%20Caf%C3%A9s%20Especiais!5e0!3m2!1sen!2sbr!4v1727681362105!5m2!1sen!2sbr",
+        "roasters": [
+          58
+        ],
+        "espressoPrice": "0",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": true,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.626575530671268,
+          -46.73330936748152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75",
+      "properties": {
+        "name": "Catarina Coffee & Love",
+        "instagramHandle": "catarina.coffeeandlove",
+        "websiteURL": "https://www.catarinacoffeeandlove.com",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.52725482617572!2d-46.627244155007126!3d-23.5886887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57a236938405%3A0x50f4dfff6d5c0b41!2sCatarina%20Coffee%20and%20Love!5e0!3m2!1sen!2sbr!4v1727682015352!5m2!1sen!2sbr",
+        "roasters": [
+          59
+        ],
+        "espressoPrice": "9",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": true,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.588526873805613,
+          -46.62694634107174
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76",
+      "properties": {
+        "name": "Quanti Cafeh",
+        "instagramHandle": "quanticafeh",
+        "websiteURL": "https://linktr.ee/quanticafeh",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.8097469893833!2d-46.63063272447324!3d-23.50336125946433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef70c11b0ab4f%3A0x12cf0034fa43d4f5!2sQuanti%20Cafeh!5e0!3m2!1sen!2sbr!4v1727682935068!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "8.50",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.503364206134172,
+          -46.628067615153974
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77",
+      "properties": {
+        "name": "cá entre nós café",
+        "instagramHandle": "ca.entre.nos.cafe",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.0605543558704!2d-46.70064192447238!3d-23.530324360453093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef9d7504c275b%3A0x6f2f17d0eb80439a!2sC%C3%A1%20entre%20n%C3%B3s%20Caf%C3%A9%20-%20Cafeteria%20em%20S%C3%A3o%20Paulo!5e0!3m2!1sen!2sbr!4v1727682911353!5m2!1sen!2sbr",
+        "roasters": [
+          60
+        ],
+        "espressoPrice": "7",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": true,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.530327422180896,
+          -46.69806968382395
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79",
+      "properties": {
+        "name": "Coffee Run Bike",
+        "instagramHandle": "coffeerunbike",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d729.0571052937947!2d-46.71162628995973!3d-23.558454657063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57cca866d147%3A0x4851aab7f310139c!2sCoffee%20Run%20Bike!5e0!3m2!1sen!2sbr!4v1727682880903!5m2!1sen!2sbr",
+        "roasters": [],
+        "espressoPrice": "10",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.55823478011979,
+          -46.711270169949515
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

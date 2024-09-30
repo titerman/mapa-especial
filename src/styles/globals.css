@@ -1,0 +1,26 @@
+:root {
+  --green: #3F612D;
+  --orange: #FF9C33;
+  --grey: #F8F8F8;
+  --thumbBG: #d1d1d1;
+  --scrollbarBG: rgb(255, 255, 255, 0);
+  --greenbuttonBK: rgba(63, 97, 45, 0.897);
+  --greenbutton: rgba(120, 126, 116, 0.897);
+  --orangebutton: rgba(255, 156, 51, 0.82)
+}
+
+html {
+  background-color: var(--grey);
+}
+
+body {
+  width: 100%;
+  min-width: 975px;
+}
+
+@media screen and (max-width: 975px) {
+  body {
+    width: 100%;
+    min-width: 360px;
+  }
+}

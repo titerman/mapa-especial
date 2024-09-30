@@ -1,0 +1,18 @@
+{
+    "espresso": "espresso",
+    "batchBrew": "batch brew",
+    "hario": "hario v60 e coadores similhantes",
+    "chemex": "chemex",
+    "aeropress": "aeropress",
+    "frenchPress": "prensa francesa",
+    "oriental": "café oriental (cezve)",
+    "moka": "moka (cafeteira italiana)",
+    "desserts": "sobremesas",
+    "breakfast": "café da manhã",
+    "snacks": "lanches",
+    "mainDishes": "pratos principais",
+    "vegFood": "opções veg",
+    "coffeeBeans": "café em grãos",
+    "equipment": "equipamento do café",
+    "merch": "produtos temáticos"
+} 
