@@ -623,13 +623,16 @@
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": []
-        },{
-        "name": "Oceano Café",
-        "roasterID": 61,
-        "ownShops": [],
-        "ownCafes": [],
-        "clientShops": [],
-        "clientCafes": [61]
+        },
+        {
+            "name": "Oceano Café",
+            "roasterID": 61,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                80
+            ]
         }
     ]
 }
