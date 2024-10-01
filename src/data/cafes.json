@@ -3703,6 +3703,53 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "80",
+      "properties": {
+        "name": "Café Arist",
+        "instagramHandle": "aristbrand",
+        "websiteURL": "https://www.aristbrand.com.br/casa-arist/",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d754.9577544148838!2d-46.681261831251696!3d-23.60114627503143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57d64f203f05%3A0x8aa57f46a0bed1f0!2sCAF%C3%89%20ARIST!5e0!3m2!1sen!2sbr!4v1727772906912!5m2!1sen!2sbr",
+        "roasters": [
+          61
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": false,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.6011026273926,
+          -46.68118872200298
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
