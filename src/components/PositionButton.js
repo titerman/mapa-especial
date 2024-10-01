@@ -12,6 +12,9 @@ const PositionButton = ({ setUserLocation }) => {
         coordinates: e.latlng
       })
     },
+    locationerror(e) {
+      alert(e.message);
+    }
   });
 
   const [isMobile, setMobile] = useState(false);
@@ -25,7 +28,7 @@ const PositionButton = ({ setUserLocation }) => {
       <div
         className="locateButton"
         onClick={() => {
-          map.locate();
+          map.locate()
         }}
         variant={"transparent"}
       >
