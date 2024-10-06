@@ -167,7 +167,11 @@ div.leafletMap.leaflet-container {
     width: 30px;
 }
 
+
+@media screen and (max-width: 650px) {
 .mapFilterContainer.activeFilterDetected .leafletMap .activeArea {
     width: 100%;
     right: 0;
   }
+
+}

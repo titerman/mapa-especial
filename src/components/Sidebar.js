@@ -11,8 +11,12 @@ import roasters from '@/data/roasters.json'
 const createDropdownRoastersArray = function (originalArray) {
     let roasterOptionArray = []
     originalArray.map((item, i) => {
-        roasterOptionArray.push({ value: item.roasterID, label: item.name });
+        let userNumber = item.ownShops.length + item.ownCafes.length + item.clientShops.length + item.clientCafes.length;
+        roasterOptionArray.push({ value: item.roasterID, label: item.name, userNumber: userNumber });
     });
+
+    roasterOptionArray = roasterOptionArray.sort(({ userNumber: a }, { userNumber: b }) => b - a);
+
     return roasterOptionArray;
 }
 
