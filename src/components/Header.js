@@ -15,8 +15,8 @@ export default function Header() {
                 <picture>
                     <source
                         media="(min-width: 975px)"
-                        srcSet="/bird-logo.svg" alt="três sábias" width="340" height="55" />
-                    <img src="/bird-logo-mobile.svg" alt="uma sábia" width="150" height="55" />
+                        srcSet="/bird-logo.svg" alt="logo" width="340" height="55" />
+                    <img src="/bird-logo-mobile.svg" alt="logo" width="150" height="55" />
                 </picture>
             </Link>
         </section>

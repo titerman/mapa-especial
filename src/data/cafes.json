@@ -3750,6 +3750,53 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "81",
+      "properties": {
+        "name": "Over Coffee Roasters",
+        "instagramHandle": "overcoffeeroasters",
+        "websiteURL": "https://overcoffee.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14628.141795096686!2d-46.7001102!3d-23.5671703!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57beb8d0956d%3A0xdf5863fde00cb8c2!2sOver%20Coffee%20Roasters!5e0!3m2!1sen!2sbr!4v1728337083014!5m2!1sen!2sbr",
+        "roasters": [
+          62
+        ],
+        "espressoPrice": "8",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": true,
+          "aeropress": true,
+          "frenchPress": true,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": true,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.567182193550824,
+          -46.70011038340502
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
