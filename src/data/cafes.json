@@ -3797,6 +3797,48 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "82",
+      "properties": {
+        "name": "Romance Cafe",
+        "instagramHandle": "romancecaffee",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.0214565774095!2d-46.685088252632745!3d-23.531730671617524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57005a16d195%3A0xa2bc016d1519846e!2sRomance%20Cafe!5e0!3m2!1sen!2sbr!4v1737331234088!5m2!1sen!2sbr",
+        "roasters": [63],
+        "espressoPrice": "11",
+        "veganMilk": true,
+        "petFriendly": true,
+        "hostsEvents": true,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": true,
+          "batchBrew": false,
+          "hario": true,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": true,
+          "breakfast": true,
+          "snacks": true,
+          "mainDishes": false,
+          "vegFood": true
+        },
+        "shop": {
+          "coffeeBeans": true,
+          "equipment": false,
+          "merch": true
+        }
+      },
+      "geometry": {
+        "coordinates": [-23.531731036322387, -46.68044913213055],
+        "type": "Point"
+      }
     }
   ]
 }

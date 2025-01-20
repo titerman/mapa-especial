@@ -7,7 +7,6 @@ const Select = dynamic(() => import('react-select'), { ssr: false }); // disable
 
 import roasters from '@/data/roasters.json'
 
-
 const createDropdownRoastersArray = function (originalArray) {
     let roasterOptionArray = []
     originalArray.map((item, i) => {
