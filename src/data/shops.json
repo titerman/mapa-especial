@@ -212,24 +212,24 @@
     },
     {
       "type": "Feature",
-      "id": "6",
+      "id": "7",
       "properties": {
-        "name": "Dora Coffee Roaster",
-        "instagramHandle": "doracoffeeroaster",
-        "websiteURL": "https://www.doracoffeeroaster.com",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.673919505736!2d-46.65140172457342!3d-23.54422777881157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59ac962c55cb%3A0x5badc7164f626d31!2sDora%20coffee%20shop!5e0!3m2!1sen!2sbr!4v1726707151818!5m2!1sen!2sbr",
+        "name": "Café POR ELAS",
+        "instagramHandle": "cafe_porelas",
+        "websiteURL": "",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4129.37686388346!2d-46.65613268853348!3d-23.537665660634918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579b933a4641%3A0xbae457c4db83fd39!2sCaf%C3%A9%20POR%20ELAS!5e1!3m2!1sen!2sbr!4v1760742387097!5m2!1sen!2sbr",
         "roasters": [
-          2
+          9
         ],
-        "espressoPrice": "",
+        "espressoPrice": "0",
         "veganMilk": false,
-        "petFriendly": true,
-        "hostsEvents": false,
+        "petFriendly": false,
+        "hostsEvents": true,
         "foreignCoffee": false,
         "brewingMethods": {
           "espresso": false,
           "batchBrew": false,
-          "hario": true,
+          "hario": false,
           "chemex": false,
           "aeropress": false,
           "frenchPress": false,
@@ -245,15 +245,12 @@
         },
         "shop": {
           "coffeeBeans": true,
-          "equipment": false,
-          "merch": false
+          "equipment": true,
+          "merch": true
         }
       },
       "geometry": {
-        "coordinates": [
-          -23.544253887625597,
-          -46.64880116487988
-        ],
+        "coordinates": [-23.537659268960947, -46.65360076497512],
         "type": "Point"
       }
     }

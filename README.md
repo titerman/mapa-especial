@@ -1,30 +1,36 @@
+# &nbsp;
+
 [![Logo](/public/full-logo.png)](https://mapaespecial.com)
- 
+
 <h1 align="center">Mapa Especial</h1>
 <p align="center">
 <a align="center" href="https://mapaespecial.com">Visite o site — https://mapaespecial.com</a><br>
 <a align="center" href="/README_EN.md">🦅 Don't speak Portuguese? Read the English version of the README 🦅</a>
 </p>
 
-[Mapa Especial](https://mapaespecial.com) é uma diretoria open-source de estabelecimentos que trabalham com cafés especiais em Grande São Paulo e Baixada Santista. O projeto tem como objetivo ajudar os moradores de São Paulo a descobrir pequenos negócios no setor de cafés especiais.
+[Mapa Especial](https://mapaespecial.com) é uma diretoria open-source de empresas que trabalham com cafés especiais em Grande São Paulo e Baixada Santista. O projeto foi criado para ajudar as pessoas descobrir pequenos negócios no setor de café especial.
 
-O mapa exibe cafeterias e lojas que atendem aos seguintes critérios:
+Você pode ler a história da criação do site no [blog da fundadora](https://titerman.com/articles/building-mapa-especial).
+
+## Critérios de Seleção
+
+O site inclui cafeterias, lojas e torrefações que atendem aos seguintes critérios:
 
 1. O local utiliza cafés especiais de origem única e ética.
-2. O local tem como objetivo oferecer uma ótima experiência sensorial para os apreciadores de café preto.
-3. Os funcionarios de local recebeu o treinamento necessário para preparar café especial de acordo com as notas sensoriais do torrador.
+2. O local tenta oferecer uma ótima experiência sensorial para os amadores de café preto.
+3. Os funcionarios recebeu o treinamento necessário para preparar ou torrar café especial.
 4. O local é um negócio independente e não faz parte de uma grande rede.
-5. O estabelecimento se identifica como uma cafeteria ou uma loja que vende café. Restaurantes que vendem café não se qualificam porque podem não ter controle de qualidade suficiente, já que seu objetivo principal é alimentar os clientes.
+5. O foco principal do local é café. Restaurantes com café no cardapio não se qualificam porque seu foco principal é comida.
 
-O código-fonte do site está disponível no GitHub sob a licença MIT. Agradecemos contribuições externas para melhorar o site e seu conteúdo.
+O código-fonte do site está disponível sob a licença MIT. Agradecemos contribuições externas para melhorar o site e seu conteúdo.
 
 ## Isenção de responsabilidade
 
-* Este site é um projeto de hobby. O criador não é afiliado a nenhum dos negócios que ele descreve.
-* Os dados do site vêm de fontes públicas. Não há garantia de que estejam corretos. Sinta-se à vontade para corrigir quaisquer erros que encontrar.
-* A omissão (ou inclusão) de qualquer empresa não constitui um julgamento sobre a qualidade do seu café.
+* Mapa Especial é um projeto de hobby. Os criadores não têm um incentivo financeiro para manter o site, nem afiliação com nenhum dos negócios apresentados.
+* Os dados do site vêm de fontes públicas. Não há garantia de que estejam corretos. Sinta-se à vontade para [corrigir](/como-contribuir) quaisquer erros você encontra.
+* A omissão (ou inclusão) de qualquer empresa não constitui um julgamento sobre a qualidade do seus produtos.
 * Há bons lugares para tomar café em bairros ruins. Não corra riscos desnecessários em São Paulo.
-* Ninguém tem garantia de uma boa xícara de café. Bons baristas têm dias ruins. Pressão e temperatura influenciam o equipamento de café. Bons torradores têm lotes ruins.
+* Ninguém tem a garantia de uma boa xícara de café. Bons torradores têm lotes ruins. Bons baristas fiquem cansadas. Pressão atmosférica e os condições climaticas influenciam máquinas de café.
 
 ## Índice
 
@@ -38,11 +44,11 @@ O código-fonte do site está disponível no GitHub sob a licença MIT. Agradece
 ## Arquitetura e dependências
 
 * Mapa Especial é um site estático criado com **Next.js** e **React.js**.
-* O site não usa um software de banco de dados. Os dados são armazenados no formato **GeoJSON**, que é fácil de ler e editar.
-* O site usa a biblioteca `leaflet` para exibir dados do mapa.
+* Os dados do site são armazenados no formato **GeoJSON**, sem o uso de um banco de dados.
+* O site usa o `leaflet` para exibir os dados do mapa.
 * As entradas interativas no componente de filtro são alimentadas por `headlessui` e `react-select`.
-* A biblioteca `react-hook-form` gerencia o formulário de filtro.
-* O site usa o formato `mdx` para gerar páginas sem conteúdo interativo. O MDX permite que você misture código Markdown com código JSX.
+* O `react-hook-form` gerencia o formulário de filtro.
+* O formato `mdx` páginas sem conteúdo interativo. O MDX permite que você misture código Markdown com código JSX.
 * Os ícones para os marcadores de mapa incluem a seguinte arte do The Noun Project (CC BY 3.0):
     1. [Coffee](https://thenounproject.com/icon/coffee-5340097/) de *ohriandesign*
     2. [Coffee cup](https://thenounproject.com/icon/coffee-cup-3203806/) de *Adrien Coquet*
@@ -70,7 +76,7 @@ O código-fonte do site está disponível no GitHub sob a licença MIT. Agradece
 
 ### Adicione ou edite dados do site
 
-Contribuidores externos podem criar pull requests para adicionar novos dados ou remover dados incorretos. Crie um fork de esse repositório na sua conta do GitHub, edite os arquivos e abra um pull request.
+Contribuidores externos podem criar pull requests para adicionar novos dados ou remover dados incorretos. Crie um fork desse repositório na sua conta do GitHub, edite os arquivos e abra um pull request.
 
 * O arquivo `src/data/cafes.json` armazena dados das cafeterias.
 * O arquivo `src/data/shops.json` armazena dados das lojas.
@@ -97,11 +103,11 @@ Dados de cafeterias e lojas seguem o mesmo formato de dados GeoJSON normalizado:
     "id": "58", /* Certifique-se de que a entrada tenha um ID exclusivo. */
     "properties": {
         "name": "Coffee Shop Name", /* Nome do negócio. */ 
-        "instagramHandle": "coffee-shop-sp", /* Nome de usuário do Instagram (sem o restante da URL). Manter vazio se o estabelecimento não tiver uma conta no Instagram. */
-        "websiteURL": "https://website.url", /* A URL completa do site do negócio. Manter vazio se o estabelecimento não tiver um site. */
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!longstringoFnumbersAndDigits", /* A URL de incorporação para o iFrame do Google Maps. Manter vazio se o negócio não estiver no Google Maps. */
-        "roasters": [1,2], /* Array de IDs de torradores cujos produtos o local tem. Veja o arquivo "roasters.json" para ver a lista de torradores e seus IDs. Manter vazio se não souber qual torrador o negócio usam. */
-        "espressoPrice": "0", /* O preço de um único shot de espresso. Insira 0 se a loja não servir espresso. */
+        "instagramHandle": "coffee-shop-sp", /* Nome da conta no Instagram (somente o username). Manter vazio se o negócio não tem a conta. */
+        "websiteURL": "https://website.url", /* A URL completa do site. Manter vazio se o negócio não tem um site. */
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!longStringOfNumbersAndDigits", /* O iFrame embed URL do Google Maps. Manter vazio se o negócio não estiver no Google Maps. */
+        "roasters": [1,2], /* Array de IDs de torradores apresentados no local. Retire as IDs de torradores do arquivo "roasters.json". Manter vazio se não souber qual torrador o negócio usam. */
+        "espressoPrice": "0", /* O preço de um único shot de espresso padrão. Insira 0 se a loja não servir espresso. */
         "veganMilk": false, /* 'true' se o negócio oferece leites vegetais. */
         "petFriendly": false, /* 'true' se o negócio permite a entrada de animais. */
         "hostsEvents": false, /* 'true' se o negócio organizo eventos relacionados ao café, como degustações. */
@@ -118,8 +124,8 @@ Dados de cafeterias e lojas seguem o mesmo formato de dados GeoJSON normalizado:
         },
         "food": {
             "desserts": false, /* 'true' se o negócio vende sobremesas (bolos, doces, etc.). */
-            "breakfast": false, /* 'true' se o negócio serve café da manhã. */
-            "snacks": false, /* 'true' se o negócio serve lanches (cachorros-quentes, hambúrgueres, etc.). */
+            "breakfast": false, /* 'true' se o negócio serve café da manhã (pequeno-almoço). */
+            "snacks": false, /* 'true' se o negócio serve lanches (cachorros quentes, hambúrgueres, etc.). */
             "mainDishes": false, /* 'true' se o negócio serve pratos principais no almoço ou jantar. */
             "vegFood": false /* 'true' se o negócio oferece opções de comida vegetariana/vegana. */
         },
@@ -138,7 +144,7 @@ Dados de cafeterias e lojas seguem o mesmo formato de dados GeoJSON normalizado:
 
 ### Adicione ou melhore a funcionalidade do site
 
-Você é bem-vindo para enviar PRs com melhorias para o site. Os mantenedores têm autoridade para recusar PRs de usuários, então aprove sua ideia com o proprietário do repositório antes de colocar qualquer trabalho. Certifique-se de que seu PR não quebre a funcionalidade existente ou tenha impacto negativo na aparência do site.
+Você é bem-vindo para enviar PRs com melhorias para o site. Os mantenedores têm autoridade para recusar PRs de usuários, então aprove sua ideia com o dono do repositório antes de fazer qualquer trabalho. Certifique-se de que seu PR não quebre a funcionalidade existente ou tenha um impacto negativo na aparência do site.
 
 ### Relatórios de bugs
 

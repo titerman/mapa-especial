@@ -381,7 +381,6 @@
         "websiteURL": "https://linktr.ee/arestacafe",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7315.622656609643!2d-46.66186488596927!3d-23.53928743516333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59005992b5bb%3A0x28f64e419a69b14c!2sAresta%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1726705724828!5m2!1sen!2sbr",
         "roasters": [
-          11,
           12
         ],
         "espressoPrice": "7",
@@ -526,7 +525,7 @@
         "websiteURL": "",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.748090070763!2d-46.6552133!3d-23.5415612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce592a20fa816b%3A0x67698aee4813facb!2sWaku%20Waku!5e0!3m2!1sen!2sbr!4v1726706414287!5m2!1sen!2sbr",
         "roasters": [
-          19
+          17
         ],
         "espressoPrice": "7",
         "veganMilk": true,
@@ -1222,7 +1221,7 @@
       "properties": {
         "name": "Woodbird Café",
         "instagramHandle": "woodbirdcafe",
-        "websiteURL": "https://woodbirdcafe.com",
+        "websiteURL": "",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d342.84083842601746!2d-46.64539465327387!3d-23.572970367448576!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6f94fcf5233f3845%3A0xad490a0bcc58f257!2sWoodBird%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727605565342!5m2!1sen!2sbr",
         "roasters": [
           26
@@ -1317,7 +1316,7 @@
         "websiteURL": "https://www.freakcafe.com.br",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d603.693749743165!2d-46.65899796943179!3d-23.608326193118643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a119af0b11b%3A0x62c0a9297b3256f0!2sFreak%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727608506482!5m2!1sen!2sbr",
         "roasters": [
-          27
+          17
         ],
         "espressoPrice": "7.20",
         "veganMilk": true,
@@ -1342,7 +1341,7 @@
           "vegFood": false
         },
         "shop": {
-          "coffeeBeans": false,
+          "coffeeBeans": true,
           "equipment": false,
           "merch": false
         }
@@ -1361,7 +1360,7 @@
       "properties": {
         "name": "Kofi & Co.",
         "instagramHandle": "kofiandco",
-        "websiteURL": "https://www.kofiandco.com",
+        "websiteURL": "https://linktr.ee/kofi_and_co_est_2016",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.45314970828917!2d-46.70559717629383!3d-23.63120215641173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50e0c0e4aa4d%3A0x2c2008e3a087351d!2sKofi%20%26%20Co%20-%20Caf%C3%A9%20e%20Brunch!5e0!3m2!1sen!2sbr!4v1727655531186!5m2!1sen!2sbr",
         "roasters": [
           28
@@ -1547,7 +1546,7 @@
       "properties": {
         "name": "StreetMe Coffee",
         "instagramHandle": "streetme.avlins",
-        "websiteURL": "https://www.streetme.coffee",
+        "websiteURL": "https://streetme.com.br",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29254.733336534842!2d-46.6230786!3d-23.5741294!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce590057512a5d%3A0xa0f39b6857ed3063!2sStreetMe%20Coffee!5e0!3m2!1sen!2sbr!4v1727658118340!5m2!1sen!2sbr",
         "roasters": [
           30
@@ -1691,7 +1690,8 @@
         "websiteURL": "https://www.kingofthefork.com.br",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.295906222098!2d-46.68634581912714!3d-23.564034591914506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce579dc0010163%3A0x7ac8ce27038db15a!2sKOF%20-%20King%20of%20The%20Fork!5e0!3m2!1sen!2sbr!4v1727659661731!5m2!1sen!2sbr",
         "roasters": [
-          32
+          4,
+          17
         ],
         "espressoPrice": "8",
         "veganMilk": true,
@@ -1788,8 +1788,7 @@
           25,
           34,
           35,
-          36,
-          37
+          36
         ],
         "espressoPrice": "8",
         "veganMilk": false,
@@ -1880,7 +1879,7 @@
       "properties": {
         "name": "Teto Café",
         "instagramHandle": "tetocafe",
-        "websiteURL": "",
+        "websiteURL": "https://linktr.ee/tetocafe",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.578045564411!2d-46.69165303524591!3d-23.55950872628275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57d7de53e8df%3A0x3b5b1a05055a98!2sTeto%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727663851947!5m2!1sen!2sbr",
         "roasters": [
           39
@@ -1962,8 +1961,8 @@
       },
       "geometry": {
         "coordinates": [
-          -23.555981868378048,
-          -46.69132116379694
+          -23.556705997480538,
+          -46.687727069485504
         ],
         "type": "Point"
       }
@@ -2062,103 +2061,9 @@
     },
     {
       "type": "Feature",
-      "id": "45",
-      "properties": {
-        "name": "Coado Shop — Barra Funda",
-        "instagramHandle": "coadoshopcafe",
-        "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58531.15823885517!2d-46.75551652908326!3d-23.525401886317294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57d714fd2669%3A0x195769bbf1455212!2sCoado%20Shop%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727664802296!5m2!1sen!2sbr",
-        "roasters": [
-          41
-        ],
-        "espressoPrice": "7",
-        "veganMilk": true,
-        "petFriendly": false,
-        "hostsEvents": false,
-        "foreignCoffee": false,
-        "brewingMethods": {
-          "espresso": true,
-          "batchBrew": true,
-          "hario": true,
-          "chemex": true,
-          "aeropress": true,
-          "frenchPress": true,
-          "oriental": false,
-          "moka": false
-        },
-        "food": {
-          "desserts": true,
-          "breakfast": true,
-          "snacks": false,
-          "mainDishes": false,
-          "vegFood": false
-        },
-        "shop": {
-          "coffeeBeans": true,
-          "equipment": false,
-          "merch": true
-        }
-      },
-      "geometry": {
-        "coordinates": [
-          -23.52538946219006,
-          -46.679387217411346
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "46",
-      "properties": {
-        "name": "Coado Shop — Higienópolis",
-        "instagramHandle": "coadoshopcafe",
-        "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13871.788628540167!2d-46.665067707162414!3d-23.560443906439602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59007db9ab27%3A0x520d6753fca73867!2sCoado%20Shop%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727664940282!5m2!1sen!2sbr",
-        "roasters": [
-          41
-        ],
-        "espressoPrice": "7",
-        "veganMilk": true,
-        "petFriendly": false,
-        "hostsEvents": false,
-        "foreignCoffee": false,
-        "brewingMethods": {
-          "espresso": true,
-          "batchBrew": true,
-          "hario": true,
-          "chemex": true,
-          "aeropress": true,
-          "frenchPress": true,
-          "oriental": false,
-          "moka": false
-        },
-        "food": {
-          "desserts": true,
-          "breakfast": true,
-          "snacks": false,
-          "mainDishes": false,
-          "vegFood": false
-        },
-        "shop": {
-          "coffeeBeans": true,
-          "equipment": false,
-          "merch": true
-        }
-      },
-      "geometry": {
-        "coordinates": [
-          -23.555657034297663,
-          -46.66599500868005
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "47",
       "properties": {
-        "name": "Coado Shop — Vila Madalena",
+        "name": "Coado Shop — Casa Marx",
         "instagramHandle": "coadoshopcafe",
         "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.13955348380892!2d-46.69083406473584!3d-23.54683042259269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57c0395bdc2d%3A0xfbba3fe9d27e267f!2sCasa%20Marx!5e0!3m2!1sen!2sbr!4v1727665036250!5m2!1sen!2sbr",
@@ -2305,7 +2210,6 @@
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d228.51417646838289!2d-46.639707888343246!3d-23.596196886722275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5a2fb76127c9%3A0x7473fc05cda68c0b!2sClemente%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727666924890!5m2!1sen!2sbr",
         "roasters": [
           46,
-          47,
           2,
           44,
           45,
@@ -2497,8 +2401,8 @@
         "websiteURL": "https://linktr.ee/astronautacafe",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d809.7049838156745!2d-46.644233637348115!3d-23.585945087659784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59353ec6b713%3A0x41d43ce553a97735!2sAstronauta%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1727669289711!5m2!1sen!2sbr",
         "roasters": [
-          48,
-          13
+          13,
+          65
         ],
         "espressoPrice": "6.50",
         "veganMilk": true,
@@ -2869,7 +2773,7 @@
       "properties": {
         "name": "café zinn Experience",
         "instagramHandle": "ocafezinn",
-        "websiteURL": "https://www.cafezinn.com",
+        "websiteURL": "https://linktr.ee/Cafezinn",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6041.372650059513!2d-46.671127615577014!3d-23.563979231137186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59364802b0e3%3A0x907ce6d2dc9b68bb!2scaf%C3%A9%20zinn!5e0!3m2!1sen!2sbr!4v1727676451085!5m2!1sen!2sbr",
         "roasters": [
           52
@@ -2963,7 +2867,7 @@
       "properties": {
         "name": "Soul Café",
         "instagramHandle": "soulcafesp",
-        "websiteURL": "",
+        "websiteURL": "https://soulcafe.com.br",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.1654397649913!2d-46.660403715075184!3d-23.555949898244986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59cd2c58d4eb%3A0xee07da1683de8f5b!2sSoul%20Caf%C3%A9%20SP!5e0!3m2!1sen!2sbr!4v1727677122446!5m2!1sen!2sbr",
         "roasters": [
           53
@@ -3706,53 +3610,6 @@
     },
     {
       "type": "Feature",
-      "id": "80",
-      "properties": {
-        "name": "Café Arist",
-        "instagramHandle": "aristbrand",
-        "websiteURL": "https://www.aristbrand.com.br/casa-arist/",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d754.9577544148838!2d-46.681261831251696!3d-23.60114627503143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57d64f203f05%3A0x8aa57f46a0bed1f0!2sCAF%C3%89%20ARIST!5e0!3m2!1sen!2sbr!4v1727772906912!5m2!1sen!2sbr",
-        "roasters": [
-          61
-        ],
-        "espressoPrice": "8",
-        "veganMilk": true,
-        "petFriendly": false,
-        "hostsEvents": false,
-        "foreignCoffee": false,
-        "brewingMethods": {
-          "espresso": true,
-          "batchBrew": false,
-          "hario": true,
-          "chemex": false,
-          "aeropress": false,
-          "frenchPress": false,
-          "oriental": false,
-          "moka": false
-        },
-        "food": {
-          "desserts": false,
-          "breakfast": false,
-          "snacks": false,
-          "mainDishes": false,
-          "vegFood": false
-        },
-        "shop": {
-          "coffeeBeans": true,
-          "equipment": false,
-          "merch": false
-        }
-      },
-      "geometry": {
-        "coordinates": [
-          -23.6011026273926,
-          -46.68118872200298
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "81",
       "properties": {
         "name": "Over Coffee Roasters",
@@ -3806,7 +3663,9 @@
         "instagramHandle": "romancecaffee",
         "websiteURL": "",
         "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.0214565774095!2d-46.685088252632745!3d-23.531730671617524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce57005a16d195%3A0xa2bc016d1519846e!2sRomance%20Cafe!5e0!3m2!1sen!2sbr!4v1737331234088!5m2!1sen!2sbr",
-        "roasters": [63],
+        "roasters": [
+          63
+        ],
         "espressoPrice": "11",
         "veganMilk": true,
         "petFriendly": true,
@@ -3836,7 +3695,57 @@
         }
       },
       "geometry": {
-        "coordinates": [-23.531731036322387, -46.68044913213055],
+        "coordinates": [
+          -23.531731036322387,
+          -46.68044913213055
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83",
+      "properties": {
+        "name": "Culto Café",
+        "instagramHandle": "cultocafe.br",
+        "websiteURL": "https://cafeculto.com.br",
+        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4128.644873787331!2d-46.66521098853287!3d-23.560971161490507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59d245418609%3A0x57b5ada3a3ba7535!2sAlameda%20Itu%2C%201068%20-%20Jardim%20America%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001421-002!5e1!3m2!1sen!2sbr!4v1760914875690!5m2!1sen!2sbr",
+        "roasters": [
+          64
+        ],
+        "espressoPrice": "0",
+        "veganMilk": false,
+        "petFriendly": false,
+        "hostsEvents": false,
+        "foreignCoffee": false,
+        "brewingMethods": {
+          "espresso": false,
+          "batchBrew": false,
+          "hario": false,
+          "chemex": false,
+          "aeropress": false,
+          "frenchPress": false,
+          "oriental": false,
+          "moka": false
+        },
+        "food": {
+          "desserts": false,
+          "breakfast": false,
+          "snacks": false,
+          "mainDishes": false,
+          "vegFood": false
+        },
+        "shop": {
+          "coffeeBeans": false,
+          "equipment": false,
+          "merch": false
+        }
+      },
+      "geometry": {
+        "coordinates": [
+          -23.56096899669709,
+          -46.66263238413447
+        ],
         "type": "Point"
       }
     }

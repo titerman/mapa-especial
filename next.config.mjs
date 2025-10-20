@@ -4,7 +4,6 @@ const nextConfig = {
   output: 'export',
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   reactStrictMode: true,
-  transpilePackages: ["react-leaflet-cluster"],
   experimental: { esmExternals: 'loose' },
   distDir: 'dist',
   images: {

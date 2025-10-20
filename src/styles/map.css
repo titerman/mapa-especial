@@ -87,6 +87,20 @@ a.leaflet-control-zoom-out,
 
 .marker-cluster.leaflet-interactive {
     background-color: #ff9c336b;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.marker-cluster.leaflet-interactive div {
+    border-radius: 100px;
+    height: 80%;
+    width: 80%;
+    text-align: center;
+    align-self: center;
+    font-size: 15px;
+    line-height: 30px;
 }
 
 .leaflet-popup,

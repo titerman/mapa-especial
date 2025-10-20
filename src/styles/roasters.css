@@ -1,0 +1,46 @@
+.roasterDetail {
+    margin-bottom: 10px;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.roasterBg {
+    height: 10%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(248, 248, 248, 0.81) 52%, rgba(248, 248, 248, 1) 100%);
+}
+
+.roasterView {
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    position: relative;
+
+}
+
+.roasterList {
+    width: 800px;
+    height: 80vh;
+    overflow: scroll;
+    display: block;
+    text-align: center;
+}
+
+.roasterFilterContainer {
+    width: 200px;
+}
+
+.roasterNameTitle {
+    text-align: left;
+    font-weight: 700;
+}
+
+input.searchField {
+    border: 1px solid black;
+}

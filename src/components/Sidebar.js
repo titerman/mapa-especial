@@ -1,3 +1,5 @@
+'use client'
+
 import dynamic from 'next/dynamic';
 import HeadlessCheckbox from './HeadlessCheckbox';
 import { Fieldset, Legend } from '@headlessui/react';
@@ -7,19 +9,20 @@ const Select = dynamic(() => import('react-select'), { ssr: false }); // disable
 
 import roasters from '@/data/roasters.json'
 
-const createDropdownRoastersArray = function (originalArray) {
+const createDropdownRoasterArray = function (originalArray) {
     let roasterOptionArray = []
     originalArray.map((item, i) => {
-        let userNumber = item.ownShops.length + item.ownCafes.length + item.clientShops.length + item.clientCafes.length;
-        roasterOptionArray.push({ value: item.roasterID, label: item.name, userNumber: userNumber });
+        roasterOptionArray.push({ value: item.roasterID, label: item.name });
     });
 
-    roasterOptionArray = roasterOptionArray.sort(({ userNumber: a }, { userNumber: b }) => b - a);
-
+    roasterOptionArray = roasterOptionArray.sort((a, b) => a.label.localeCompare(b.label));
     return roasterOptionArray;
 }
 
 export default function Sidebar({ filterStatus, setFilterStatus, filterWindowStatus, setFilterWindowStatus }) {
+
+    const dropdownRoasterArray = createDropdownRoasterArray(roasters.roasters);
+
     const { control, watch, reset } = useForm({
         defaultValues: filterStatus,
     })
@@ -75,7 +78,7 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
                                             name="roasters"
                                             control={control}
                                             render={({ field }) => (
-                                                <Select {...field} instanceId="" options={createDropdownRoastersArray(roasters.roasters)} isMulti={true} placeholder={"Torrador"} className='roasterSelector' control={control} />
+                                                <Select {...field} instanceId="" options={dropdownRoasterArray} isMulti={true} placeholder={"Torrador"} className='roasterSelector' control={control} />
                                             )} />
                                     </Fieldset>
                                 </li>
