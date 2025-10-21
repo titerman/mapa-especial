@@ -2303,53 +2303,6 @@
     },
     {
       "type": "Feature",
-      "id": "53",
-      "properties": {
-        "name": "Um Coffee Co. — Jd. Paulistano",
-        "instagramHandle": "umcoffeeco",
-        "websiteURL": "https://umcoffeeco.com.br",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58511.85293417158!2d-46.75262258636159!3d-23.568773599999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5744eafb8269%3A0xd2f7797ea234265a!2sUm%20Coffee%20Co.!5e0!3m2!1sen!2sbr!4v1727667767690!5m2!1sen!2sbr",
-        "roasters": [
-          36
-        ],
-        "espressoPrice": "9",
-        "veganMilk": true,
-        "petFriendly": false,
-        "hostsEvents": false,
-        "foreignCoffee": false,
-        "brewingMethods": {
-          "espresso": true,
-          "batchBrew": false,
-          "hario": true,
-          "chemex": false,
-          "aeropress": true,
-          "frenchPress": true,
-          "oriental": false,
-          "moka": false
-        },
-        "food": {
-          "desserts": true,
-          "breakfast": true,
-          "snacks": false,
-          "mainDishes": false,
-          "vegFood": true
-        },
-        "shop": {
-          "coffeeBeans": true,
-          "equipment": true,
-          "merch": true
-        }
-      },
-      "geometry": {
-        "coordinates": [
-          -23.57140903390938,
-          -46.68119931982939
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "54",
       "properties": {
         "name": "Astronauta Café",
