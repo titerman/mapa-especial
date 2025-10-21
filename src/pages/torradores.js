@@ -8,7 +8,6 @@ import defaultRoasterFilterState from '@/data/defaultRoasterFilterState.json'
 import RoasterList from "@/components/RoasterList";
 
 const roasterData = roasters.roasters;
-console.log(roasterData.length)
 
 export default function Torradores() {
     const [roasterFilterState, setRoasterFilterState] = useState(defaultRoasterFilterState);
