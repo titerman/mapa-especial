@@ -24,7 +24,7 @@ export default function Header() {
             <Hamburger hamburgerState={hamburgerState} setHamburgerState={setHamburgerState} />
             <ul className={hamburgerState.isActive ? "activeHamburger" : "closedHamburger"}>
                 <li><a href="/sobre">Sobre Nós</a></li>
-                <li><a href="/como-contribuir">Como Contribuir</a></li>
+                <li><a href="/agenda">Agenda</a></li>
                 <li><a href="/torradores">Catálago de Torradores</a></li>
             </ul>
         </nav>

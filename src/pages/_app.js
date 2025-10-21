@@ -5,7 +5,8 @@ import '@/styles/header.css';
 import '@/styles/footer.css';
 import '@/styles/map.css';
 import '@/styles/staticPages.css';
-import '@/styles/roasters.css';
+import '@/styles/torradores.css';
+import '@/styles/agenda.css';
 import '@/styles/aside.css';
 
 import { Sen } from 'next/font/google';

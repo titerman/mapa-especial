@@ -66,7 +66,9 @@
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
-            "clientCafes": [37]
+            "clientCafes": [
+                37
+            ]
         },
         {
             "name": "Corisco",
@@ -146,7 +148,9 @@
             "deliversNationwide": true,
             "foreignCoffee": false,
             "onlineShopping": true,
-            "ownShops": [7],
+            "ownShops": [
+                7
+            ],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": [
@@ -270,7 +274,10 @@
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": [
-                10
+                10,
+                12,
+                37,
+                29
             ]
         },
         {
@@ -450,23 +457,6 @@
             "clientCafes": []
         },
         {
-            "name": "StreetMe Coffee",
-            "roasterID": 30,
-            "city": "São Paulo",
-            "state": "SP",
-            "instagramHandle": "streetme.avlins",
-            "websiteURL": "https://streetme.com.br",
-            "deliversNationwide": false,
-            "foreignCoffee": false,
-            "onlineShopping": false,
-            "ownShops": [],
-            "ownCafes": [
-                34
-            ],
-            "clientShops": [],
-            "clientCafes": []
-        },
-        {
             "name": "True Coffee Inc.",
             "roasterID": 31,
             "city": "São Paulo",
@@ -602,7 +592,10 @@
             "foreignCoffee": false,
             "onlineShopping": true,
             "ownShops": [],
-            "ownCafes": [42, 43],
+            "ownCafes": [
+                42,
+                43
+            ],
             "clientShops": [],
             "clientCafes": []
         },
@@ -673,7 +666,9 @@
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
-            "clientCafes": [50]
+            "clientCafes": [
+                50
+            ]
         },
         {
             "name": "Punga Cafés",
@@ -899,7 +894,9 @@
             "foreignCoffee": true,
             "onlineShopping": true,
             "ownShops": [],
-            "ownCafes": [75],
+            "ownCafes": [
+                75
+            ],
             "clientShops": [],
             "clientCafes": []
         },
@@ -916,7 +913,9 @@
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
-            "clientCafes": []
+            "clientCafes": [
+                77
+            ]
         },
         {
             "name": "Oceano Café",
@@ -978,7 +977,9 @@
             "foreignCoffee": true,
             "onlineShopping": true,
             "ownShops": [],
-            "ownCafes": [83],
+            "ownCafes": [
+                83
+            ],
             "clientShops": [],
             "clientCafes": []
         },
@@ -996,6 +997,66 @@
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": []
+        },
+        {
+            "name": "Coffee Taste",
+            "roasterID": 66,
+            "city": "Araraquara",
+            "state": "SP",
+            "instagramHandle": "coffeetaste.republica_sp",
+            "websiteURL": "https://www.coffeetaste.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "ownShops": [],
+            "ownCafes": [
+                84
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "A Arca",
+            "roasterID": 67,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "arca.cafesespeciais",
+            "websiteURL": "https://www.ifood.com.br/delivery/sao-paulo-sp/a-arca-cafes-especiais-pinheiros/",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "ownShops": [],
+            "ownCafes": [
+                85,
+                86
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Academia do Café",
+            "roasterID": 68,
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "instagramHandle": "academiadocafe",
+            "websiteURL": "https://www.academiadocafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },{
+        "name": "Noete Café",
+        "roasterID": 69,
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "instagramHandle": "noetecafeclube",
+        "websiteURL": "https://noete.com.br",
+        "deliversNationwide": true,
+        "foreignCoffee": false,
+        "ownShops": [],
+        "ownCafes": [],
+        "clientShops": [],
+        "clientCafes": []
         }
     ]
 }
