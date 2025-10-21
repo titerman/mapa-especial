@@ -16,6 +16,10 @@ aside {
     z-index: 10000;
 }
 
+.filterTooltip, .questionMarkTooltipImage {
+    margin-left: 5px;
+}
+
 .filterFormContainer,
 .detailContainer {
     overflow-y: scroll;
@@ -61,6 +65,7 @@ aside {
     background-color: #f2f2f2;
     /* border: 1px solid #c3c3c3; */
     box-shadow: inset 0px 1px 4px 0px rgba(115, 115, 115, 0.56);
+    flex-shrink: 0;
 }
 
 .filterCheckBox:hover,

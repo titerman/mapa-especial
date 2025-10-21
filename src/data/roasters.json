@@ -347,7 +347,7 @@
         {
             "name": "Geek Roasters",
             "roasterID": 23,
-            "city": "São Paulo",
+            "city": "Santos",
             "state": "SP",
             "instagramHandle": "geekbaristas",
             "websiteURL": "https://linktr.ee/geekbaristassc/",
@@ -381,7 +381,7 @@
         {
             "name": "Garagem do Café",
             "roasterID": 25,
-            "city": "Santos",
+            "city": "São Paulo",
             "state": "SP",
             "instagramHandle": "garagemdocafe",
             "websiteURL": "https://garagemdocafe.com.br",

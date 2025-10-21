@@ -11,9 +11,11 @@ import '@/styles/aside.css';
 import { Sen } from 'next/font/google';
 import Header from "@/components/Header";
 
-const sen = Sen({ subsets: ['latin-ext'] })
+const sen = Sen({ subsets: ['latin-ext'] });
 
-export default function App({ Component, pageProps }) {
+
+export default function App({ Component, pageProps}) {
+
   return (
     <>
       <style jsx global>{`

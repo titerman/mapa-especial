@@ -5,7 +5,7 @@ export default function RoasterList({ roasterFilterState, roasterData }) {
     roasterData = roasterData.sort((a, b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))
 
     if (roasterFilterState.hideRoastersWithALimitedDeliveryArea) {
-        roasterData = roasterData.filter(x => x.deliversNationwide === true);
+        roasterData = roasterData.filter(x => x.onlineShopping === true).filter(x => x.deliversNationwide === true);
     }
 
     if (roasterFilterState.foreignCoffee) {

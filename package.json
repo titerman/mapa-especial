@@ -23,7 +23,8 @@
     "react-hook-form": "^7.65.0",
     "react-leaflet": "^5.0.0",
     "react-leaflet-cluster": "^3.1.1",
-    "react-select": "^5.10.2"
+    "react-select": "^5.10.2",
+    "react-tooltip": "^5.30.0"
   },
   "devDependencies": {
     "eslint": "^9",

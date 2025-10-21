@@ -15,7 +15,6 @@ export default function RoasterFilter({ roasterFilterState, setRoasterFilterStat
 
     watch((data) => {
         setRoasterFilterState(data);
-        console.log(data);
     });
 
     return (
@@ -25,25 +24,28 @@ export default function RoasterFilter({ roasterFilterState, setRoasterFilterStat
                     <ul>
                         <li>
                             <Fieldset>
-                                <Legend>Roaster Filter</Legend>
                                 <ul>
+                                    <li>
+                                        <Controller
+                                            name="roasterName"
+                                            control={control}
+                                            render={({ field }) => (
+                                                <input className="searchField" type="text" {...field} placeholder={"Filtrar por nome"} control={control} />
+                                            )} />
+                                    </li>
                                     <HeadlessCheckbox value={"Ocultar os torradores sem vendas online"} name={"onlineShopping"} control={control} />
                                     <HeadlessCheckbox value={"Cafés estrangeiros"} name={"foreignCoffee"} control={control} />
-                                    <HeadlessCheckbox value={"Ocultar os torradores sem entrega nacional"} name={"hideRoastersWithALimitedDeliveryArea"} control={control} />
-
+                                    <HeadlessCheckbox liClassName="finalRoasterFilterCheckbox" value={"Ocultar os torradores sem entrega nacional"} name={"hideRoastersWithALimitedDeliveryArea"} control={control} />
+                                    <li>
+                                        <Controller
+                                            name="state"
+                                            control={control}
+                                            render={({ field }) => (
+                                                <Select {...field} options={roasterStates} isMulti={false} className='stateSelector' control={control} defaultValue={{ value: "0", label: "Todos os Estados" }} />
+                                            )} />
+                                    </li>
                                 </ul>
-                                <Controller
-                                    name="state"
-                                    control={control}
-                                    render={({ field }) => (
-                                        <Select {...field} instanceId="" options={roasterStates} isMulti={false} className='stateSelector' control={control} defaultValue={{ value: "0", label: "Todos os Estados" }} />
-                                    )} />
-                                <Controller
-                                    name="roasterName"
-                                    control={control}
-                                    render={({ field }) => (
-                                        <input className="searchField" type="text" {...field} instanceId="" placeholder={"Name"} control={control} />
-                                    )} />
+
                             </Fieldset>
                         </li>
                     </ul>

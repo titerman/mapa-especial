@@ -2,6 +2,7 @@ import Head from "next/head";
 import MapFilterContainer from '@/components/MapFilterContainer';
 
 export default function Home() {
+
   return (
     <>
       <Head>

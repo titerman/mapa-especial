@@ -124,47 +124,6 @@
     },
     {
       "type": "Feature",
-      "id": "4",
-      "properties": {
-        "name": "Wolff",
-        "instagramHandle": "wolff_cafe",
-        "websiteURL": "https://www.wolffcafe.com.br",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14628.896531846114!2d-46.6781443!3d-23.5603924!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59f2726b5f91%3A0x8b30ac27607097a3!2zV29sZmYgQ2Fmw6lzIEVzcGVjaWFpcyB8IEV4cGVyacOqbmNpYSBlIEhhcm1vbml6YcOnw7VlcyBHcsOhdGlzIHwgRW1ww7NyaW8!5e0!3m2!1sen!2sbr!4v1726786755725!5m2!1sen!2sbr",
-        "roasters": [
-          4
-        ],
-        "espressoPrice": "0",
-        "veganMilk": false,
-        "petFriendly": false,
-        "hostsEvents": false,
-        "foreignCoffee": false,
-        "brewingMethods": {
-          "espresso": false,
-          "batchBrew": false,
-          "hario": true,
-          "chemex": false,
-          "aeropress": false,
-          "frenchPress": false,
-          "oriental": false,
-          "moka": false
-        },
-        "food": {},
-        "shop": {
-          "coffeeBeans": true,
-          "equipment": false,
-          "merch": false
-        }
-      },
-      "geometry": {
-        "coordinates": [
-          -23.560363169844763,
-          -46.67814546512857
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "5",
       "properties": {
         "name": "Le Pool",
