@@ -42,6 +42,7 @@ The website's source code is available on GitHub under the MIT license. We welco
 * The website uses the `leaflet` library to display map data.
 * The interactive inputs in the filter component are powered by `headlessui` and `react-select`.
 * The `react-hook-form` library manages the filter form.
+* The website uses the `fullcalendar` library to display the event calendar.
 * The website uses `mdx` files to generate pages without interactive content. MDX allows you to mix Markdown code with JSX code.
 * The icons for map markers include the following third-party art from The Noun Project (CC BY 3.0):
     1. [Coffee](https://thenounproject.com/icon/coffee-5340097/) by *ohriandesign*
@@ -75,13 +76,21 @@ Outside contributors can create pull requests to amend website data or remove in
 * The `src/data/cafes.json` file stores café data.
 * The `src/data/shops.json` file stores shop data.
 * The `src/data/roasters.json` file stores roaster data.
+* The `src/data/events.json` file stores event data.
 
 The `roasters.json` file stores the list of roasters. Roaster objects reference the IDs of cafes and shops that use the roaster's coffee:
 
 ```js
     {
         "name": "roasterName",
-        "roasterID": 1, /*  has to be unique */
+        "roasterID": 1, /*  has to be unique */,
+        "city": "São Paulo", /* roaster hq location */
+        "state": "SP", /* state (UF) */
+        "instagramHandle": "umcoffeeco", /*  Instagram handle (without the URL). Leave empty if the establishment does not have an Instagram account. */
+        "websiteURL": "https://umcoffeeco.com.br",  /* Full website URL. Leave empty if the establishment does not have a website. */
+        "deliversNationwide": true,  /* 'true' if the roaster offers nation-wide delivery */
+        "foreignCoffee": false,  /* 'true' if the business roasts coffees cultivated abroad  */
+        "onlineShopping": true,  /* 'true' if the business has an online shop  */
         "ownShops": [1], /*  IDs of shops that are owned by the roaster. Find shop IDs in the "shops.json" file */
         "ownCafes": [1], /*  IDs of cafes that are owned by the roaster. Find cafe IDs in the "cafes.json" file */
         "clientShops": [2], /*  IDs of third-party shops that sell the roaster's beans */

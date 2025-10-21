@@ -55,6 +55,7 @@
             "\"websiteURL\": \"https://website.com\",",
             "\"deliversNationwide\": true,",
             "\"foreignCoffee\": false,",
+            "\"onlineShopping\": true,",
             "\"ownShops\": [],",
             "\"ownCafes\": [],",
             "\"clientShops\": [],",

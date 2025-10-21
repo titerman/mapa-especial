@@ -48,6 +48,7 @@ O código-fonte do site está disponível sob a licença MIT. Agradecemos contri
 * O site usa o `leaflet` para exibir os dados do mapa.
 * As entradas interativas no componente de filtro são alimentadas por `headlessui` e `react-select`.
 * O `react-hook-form` gerencia o formulário de filtro.
+* O site usa o `fullcalendar` para exibir a agenda.
 * O formato `mdx` páginas sem conteúdo interativo. O MDX permite que você misture código Markdown com código JSX.
 * Os ícones para os marcadores de mapa incluem a seguinte arte do The Noun Project (CC BY 3.0):
     1. [Coffee](https://thenounproject.com/icon/coffee-5340097/) de *ohriandesign*
@@ -81,13 +82,21 @@ Contribuidores externos podem criar pull requests para adicionar novos dados ou 
 * O arquivo `src/data/cafes.json` armazena dados das cafeterias.
 * O arquivo `src/data/shops.json` armazena dados das lojas.
 * O arquivo `src/data/roasters.json` armazena dados dos torradores.
+* O arquivo `src/data/events.json` armazena dados dos eventos.
 
-O arquivo `roasters.json` armazena a lista de torradores. Objetos `Roaster` referenciam os IDs de cafés e lojas que usam o café daquele torrador:
+O arquivo `roasters.json` armazena a lista de torradores. Todos os torradores são
 
 ```js
     {
         "name": "roasterName", /* O nome do torrador */
         "roasterID": 1, /* ID único */
+        "city": "São Paulo", /* Cidade */
+        "state": "SP", /* estado (UF) */
+        "instagramHandle": "umcoffeeco", /* Nome da conta no Instagram (somente o username). Manter vazio se o negócio não tem a conta. */
+        "websiteURL": "https://umcoffeeco.com.br",  /* A URL completa do site. Manter vazio se o negócio não tem um site. */
+        "deliversNationwide": true,  /* 'true' se o negócio entrega pedidos em todo o Brasil */
+        "foreignCoffee": false,  /* 'true' se o negócio vende cafés especiais cultivados fora do Brasil.  */
+        "onlineShopping": true,  /* 'true' se o negócio tem um loja online.  */
         "ownShops": [1], /* IDs de lojas que são de propriedade do torrador. Encontre IDs de lojas no arquivo "shops.json" */
         "ownCafes": [1], /* IDs de cafeterias que são de propriedade do torrador. Encontre IDs de cafeterias no arquivo "cafes.json" */
         "clientShops": [2], /* IDs de lojas não afiliadas que vendam os cafés do torrador */

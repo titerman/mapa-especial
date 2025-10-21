@@ -539,8 +539,7 @@
             "ownShops": [],
             "ownCafes": [
                 51,
-                52,
-                53
+                52
             ],
             "clientShops": [],
             "clientCafes": [
@@ -1007,6 +1006,7 @@
             "websiteURL": "https://www.coffeetaste.com.br",
             "deliversNationwide": true,
             "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 84
@@ -1023,6 +1023,7 @@
             "websiteURL": "https://www.ifood.com.br/delivery/sao-paulo-sp/a-arca-cafes-especiais-pinheiros/",
             "deliversNationwide": false,
             "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 85,
@@ -1040,23 +1041,26 @@
             "websiteURL": "https://www.academiadocafe.com.br",
             "deliversNationwide": true,
             "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": []
-        },{
-        "name": "Noete Café",
-        "roasterID": 69,
-        "city": "Belo Horizonte",
-        "state": "MG",
-        "instagramHandle": "noetecafeclube",
-        "websiteURL": "https://noete.com.br",
-        "deliversNationwide": true,
-        "foreignCoffee": false,
-        "ownShops": [],
-        "ownCafes": [],
-        "clientShops": [],
-        "clientCafes": []
+        },
+        {
+            "name": "Noete Café",
+            "roasterID": 69,
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "instagramHandle": "noetecafeclube",
+            "websiteURL": "https://noete.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
         }
     ]
 }
