@@ -352,23 +352,6 @@
             "clientCafes": []
         },
         {
-            "name": "Geek Roasters",
-            "roasterID": 23,
-            "city": "Santos",
-            "state": "SP",
-            "instagramHandle": "geekbaristas",
-            "websiteURL": "https://linktr.ee/geekbaristassc/",
-            "deliversNationwide": false,
-            "foreignCoffee": false,
-            "onlineShopping": false,
-            "ownShops": [],
-            "ownCafes": [
-                20
-            ],
-            "clientShops": [],
-            "clientCafes": []
-        },
-        {
             "name": "Fora Da Lei",
             "roasterID": 24,
             "city": "São Paulo",

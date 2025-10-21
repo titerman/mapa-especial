@@ -895,53 +895,6 @@
     },
     {
       "type": "Feature",
-      "id": "20",
-      "properties": {
-        "name": "Geek Baristas",
-        "instagramHandle": "geekbaristas",
-        "websiteURL": "https://linktr.ee/geekbaristassc",
-        "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227.87006252946367!2d-46.3242200976802!3d-23.96323352991198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce0363846998e5%3A0xb5e5668cc924c973!2sGeek%20Baristas%20Coffee!5e0!3m2!1sen!2sbr!4v1727584726520!5m2!1sen!2sbr",
-        "roasters": [
-          23
-        ],
-        "espressoPrice": "7.80",
-        "veganMilk": true,
-        "petFriendly": true,
-        "hostsEvents": true,
-        "foreignCoffee": false,
-        "brewingMethods": {
-          "espresso": true,
-          "batchBrew": false,
-          "hario": true,
-          "chemex": false,
-          "aeropress": true,
-          "frenchPress": false,
-          "oriental": false,
-          "moka": false
-        },
-        "food": {
-          "desserts": true,
-          "breakfast": true,
-          "snacks": true,
-          "mainDishes": false,
-          "vegFood": false
-        },
-        "shop": {
-          "coffeeBeans": true,
-          "equipment": false,
-          "merch": false
-        }
-      },
-      "geometry": {
-        "coordinates": [
-          -23.963089838704853,
-          -46.32399948617862
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "21",
       "properties": {
         "name": "Black Coffee and Roasters",
