@@ -84,7 +84,7 @@ Contribuidores externos podem criar pull requests para adicionar novos dados ou 
 * O arquivo `src/data/roasters.json` armazena dados dos torradores.
 * O arquivo `src/data/events.json` armazena dados dos eventos.
 
-O arquivo `roasters.json` armazena a lista de torradores. Todos os torradores são
+O arquivo `roasters.json` armazena a lista de torradores.
 
 ```js
     {
