@@ -79,7 +79,7 @@ export default function Detail({ detailInfo, activityStatus, detailActivator, st
                                 <li className="fullLineItem" key="veganMilk"><YesNoMarker exp={detailInfo.properties.veganMilk} />Leites vegetais</li>
                                 <li className="fullLineItem" key="petFriendly"><YesNoMarker exp={detailInfo.properties.petFriendly} />Pet friendly</li>
                                 <li className="fullLineItem" key="hostsEvents"><YesNoMarker exp={detailInfo.properties.hostsEvents} />Eventos</li>
-                                <li className="fullLineItem" key="foreignCoffee"><YesNoMarker exp={detailInfo.properties.foreignCoffee} />Cafes gringos</li>
+                                <li className="fullLineItem" key="foreignCoffee"><YesNoMarker exp={detailInfo.properties.foreignCoffee} />Cafes de exterior</li>
                             </ul>
                         </li>
                     </ul>

@@ -1,0 +1,8 @@
+main.calendarView {
+    width: 80%;
+    height: 80vh;
+    overflow: scroll;
+    padding: 30px;
+    margin: auto;
+
+}

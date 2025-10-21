@@ -1,3 +1,5 @@
+'use client'
+
 import dynamic from 'next/dynamic';
 import HeadlessCheckbox from './HeadlessCheckbox';
 import { Fieldset, Legend } from '@headlessui/react';
@@ -5,21 +7,8 @@ import { useForm, Controller } from "react-hook-form";
 
 const Select = dynamic(() => import('react-select'), { ssr: false }); // disable SSR for react-select
 
-import roasters from '@/data/roasters.json'
+export default function Sidebar({ filterStatus, setFilterStatus, filterWindowStatus, setFilterWindowStatus, roaster, setRoaster, roasterArray }) {
 
-const createDropdownRoastersArray = function (originalArray) {
-    let roasterOptionArray = []
-    originalArray.map((item, i) => {
-        let userNumber = item.ownShops.length + item.ownCafes.length + item.clientShops.length + item.clientCafes.length;
-        roasterOptionArray.push({ value: item.roasterID, label: item.name, userNumber: userNumber });
-    });
-
-    roasterOptionArray = roasterOptionArray.sort(({ userNumber: a }, { userNumber: b }) => b - a);
-
-    return roasterOptionArray;
-}
-
-export default function Sidebar({ filterStatus, setFilterStatus, filterWindowStatus, setFilterWindowStatus }) {
     const { control, watch, reset } = useForm({
         defaultValues: filterStatus,
     })
@@ -33,7 +22,6 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
             filterWindowActive: false
         })
     }
-
     const resetFilter = function () {
         reset();
     }
@@ -61,10 +49,10 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
                                     <Fieldset>
                                         <Legend>Características</Legend>
                                         <ul>
-                                            <HeadlessCheckbox value={"Leites vegetais"} name={"properties.veganMilk"} control={control} />
+                                            <HeadlessCheckbox value={"Leites vegetais"} name={"properties.veganMilk"} control={control}> </HeadlessCheckbox>                    
                                             <HeadlessCheckbox value={"Pet friendly"} name={"properties.petFriendly"} control={control} />
-                                            <HeadlessCheckbox value={"Eventos (cuppings, etc.)"} name={"properties.hostsEvents"} control={control} />
-                                            <HeadlessCheckbox value={"Cafés gringos"} name={"properties.foreignCoffee"} control={control} />
+                                            <HeadlessCheckbox value={"Eventos"} name={"properties.hostsEvents"} control={control} tooltipText={"Cuppings, degustações, presentações"} />
+                                            <HeadlessCheckbox value={"Cafés de exterior"} name={"properties.foreignCoffee"} control={control} />
                                         </ul>
                                     </Fieldset>
                                 </li>
@@ -75,7 +63,7 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
                                             name="roasters"
                                             control={control}
                                             render={({ field }) => (
-                                                <Select {...field} instanceId="" options={createDropdownRoastersArray(roasters.roasters)} isMulti={true} placeholder={"Torrador"} className='roasterSelector' control={control} />
+                                                <Select {...field} instanceId="" options={roasterArray} isMulti={true} placeholder={"Torrador"} className='roasterSelector' control={control} value={filterStatus.roasters} />
                                             )} />
                                     </Fieldset>
                                 </li>
@@ -85,12 +73,12 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
                                         <ul>
                                             <HeadlessCheckbox value={"Espresso"} name={"properties.brewingMethods.espresso"} control={control} />
                                             <HeadlessCheckbox value={"Batch brew"} name={"properties.brewingMethods.batchBrew"} control={control} />
-                                            <HeadlessCheckbox value={"Hario v60 ou coadores similhantes"} name={"properties.brewingMethods.hario"} control={control} />
+                                            <HeadlessCheckbox value={"Hario v60 ou outros coadores"} name={"properties.brewingMethods.hario"} control={control} tooltipText={"Origami, Melitta"}/>
                                             <HeadlessCheckbox value={"Chemex"} name={"properties.brewingMethods.chemex"} control={control} />
                                             <HeadlessCheckbox value={"Aeropress"} name={"properties.brewingMethods.aeropress"} control={control} />
                                             <HeadlessCheckbox value={"Prensa francesa"} name={"properties.brewingMethods.frenchPress"} control={control} />
-                                            <HeadlessCheckbox value={"Café oriental"} name={"properties.brewingMethods.oriental"} control={control} />
-                                            <HeadlessCheckbox value={"Moka"} name={"properties.brewingMethods.moka"} control={control} />
+                                            <HeadlessCheckbox value={"Café oriental"} name={"properties.brewingMethods.oriental"} control={control} tooltipText={"Também conhecido como ibrik ou cezve"} />
+                                            <HeadlessCheckbox value={"Moka"} name={"properties.brewingMethods.moka"} control={control} tooltipText={"Cafeteira italiana"}/>
                                         </ul>
                                     </Fieldset>
                                 </li>
@@ -111,8 +99,8 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
                                         <Legend>Produtos para venda</Legend>
                                         <ul>
                                             <HeadlessCheckbox value={"Café em grãos"} name={"properties.shop.coffeeBeans"} control={control} />
-                                            <HeadlessCheckbox value={"Equipamento do café"} name={"properties.shop.equipment"} control={control} />
-                                            <HeadlessCheckbox value={"Produtos temáticos"} name={"properties.shop.merch"} control={control} />
+                                            <HeadlessCheckbox value={"Equipamento do café"} name={"properties.shop.equipment"} control={control} tooltipText={"Coadores, moedores, filtros"}/>
+                                            <HeadlessCheckbox value={"Produtos temáticos"} name={"properties.shop.merch"} control={control} tooltipText={"Camisetas, bonés, livros"}/>
                                         </ul>
                                     </Fieldset>
                                 </li>
@@ -123,8 +111,8 @@ export default function Sidebar({ filterStatus, setFilterStatus, filterWindowSta
                         <button onClick={resetFilter}>Limpar</button>
                         <button onClick={hideFilterWindow}>Filtrar</button>
                     </div>
-                </aside>}
+                </aside>
+            }
         </>
-
     )
 }

@@ -30,6 +30,12 @@ main.textContent h2 {
     color: rgb(53, 53, 53);
 }
 
+main.textContent h3 {
+    margin: 15px 0 10px;
+    font-weight: 450;
+    text-decoration: underline;
+}
+
 main.textContent code {
     font-size: 15px;
 }
@@ -37,7 +43,8 @@ main.textContent code {
 main.textContent ul {
 
     list-style: disc;
-    margin-left: 25px;
+    margin-left: 22px;
+    text-align: left;
 }
 
 main.textContent ol {

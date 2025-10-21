@@ -1,9 +1,17 @@
 import { Checkbox, Field, Label } from '@headlessui/react'
-import { Controller } from 'react-hook-form'
+import { Controller } from 'react-hook-form';
+import QuestionMarkTooltip from './QuestionMarkTooltip';
 
-export default function HeadlessCheckbox({ value, name, checked, control }) {
+export default function HeadlessCheckbox({ value, name, checked, control, liClassName, tooltipText }) {
+
+    let tooltipIDName;
+
+    if (tooltipText) {
+        tooltipIDName = name.toString().replace(/\W/g, '') + "Tooltip";
+    }
+
     return (
-        <li>
+        <li className={liClassName}>
             <Field className="filterCheckBoxContainer">
                 <Controller
                     name={name}
@@ -13,8 +21,8 @@ export default function HeadlessCheckbox({ value, name, checked, control }) {
                             className="filterCheckBox"
                             name={name}
                             id={name}
-                            defaultChecked={field .value}
-                            checked={field .value}
+                            defaultChecked={field.value}
+                            checked={field.value}
                             itemID={name}
                         >
                             <svg className="checkboxImage" viewBox="0 0 14 14" fill="none">
@@ -22,7 +30,7 @@ export default function HeadlessCheckbox({ value, name, checked, control }) {
                             </svg>
                         </Checkbox>}
                 />
-                <Label htmlFor={name}>{value}</Label>
+                <Label htmlFor={name}>{value}{tooltipText && <QuestionMarkTooltip tooltipID={tooltipIDName} placeholderText={tooltipText} />}</Label>
             </Field>
         </li>
     )

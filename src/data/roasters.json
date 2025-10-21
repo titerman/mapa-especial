@@ -3,6 +3,13 @@
         {
             "name": "Crio",
             "roasterID": 1,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "crio.cafe",
+            "websiteURL": "https://www.delivery.crio.cafe/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 17,
@@ -14,9 +21,14 @@
         {
             "name": "Dora Coffee",
             "roasterID": 2,
-            "ownShops": [
-                18
-            ],
+            "city": "Jundiaí",
+            "state": "SP",
+            "instagramHandle": "doracoffeeroaster",
+            "websiteURL": "https://www.doracoffeeroaster.com",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
+            "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": [
@@ -26,6 +38,13 @@
         {
             "name": "Coffee Walk",
             "roasterID": 3,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "coffeewalkbr",
+            "websiteURL": "https://loja.coffeewalk.com.br/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 1,
@@ -37,14 +56,30 @@
         {
             "name": "Wolff",
             "roasterID": 4,
+            "city": "Itapeva",
+            "state": "MG",
+            "websiteURL": "https://www.wolffcafe.com.br",
+            "instagramHandle": "wolff_cafe",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
-            "clientCafes": []
+            "clientCafes": [
+                37
+            ]
         },
         {
             "name": "Corisco",
             "roasterID": 5,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "corsicocafes",
+            "websiteURL": "https://coriscocafes.com",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -55,6 +90,13 @@
         {
             "name": "Takkø",
             "roasterID": 6,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "takkocafesp",
+            "websiteURL": "",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 5
@@ -65,6 +107,13 @@
         {
             "name": "Empirico Café",
             "roasterID": 7,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "empiricocafesp",
+            "websiteURL": "",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 7
@@ -75,6 +124,13 @@
         {
             "name": "Le Pool",
             "roasterID": 8,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "lepool.coffee",
+            "websiteURL": "https://lepool.coffee/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [
                 5
             ],
@@ -83,9 +139,18 @@
             "clientCafes": []
         },
         {
-            "name": "Café por Elas",
+            "name": "Café POR ELAS",
             "roasterID": 9,
-            "ownShops": [],
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "cafe_porelas",
+            "websiteURL": "https://www.amazon.com.br/stores/page/C819BA10-4C88-4B65-B30D-A64FAD9F8D9B",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
+            "ownShops": [
+                7
+            ],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": [
@@ -95,6 +160,13 @@
         {
             "name": "Café di Preto",
             "roasterID": 10,
+            "city": "Rio de Janeiro",
+            "state": "RJ",
+            "instagramHandle": "cafedipreto",
+            "websiteURL": "https://test.com",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -103,18 +175,15 @@
             ]
         },
         {
-            "name": "Aresta Café",
-            "roasterID": 11,
-            "ownShops": [],
-            "ownCafes": [],
-            "clientShops": [],
-            "clientCafes": [
-                9
-            ]
-        },
-        {
             "name": "Tazza Café",
             "roasterID": 12,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "tazzacafesp",
+            "websiteURL": "https://www.tazzacafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -125,6 +194,13 @@
         {
             "name": "Campo Místico",
             "roasterID": 13,
+            "city": "Bueno Brandão",
+            "state": "MG",
+            "instagramHandle": "cafecampomistico",
+            "websiteURL": "https://www.campomistico.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -136,6 +212,13 @@
         {
             "name": "Hastenreiter",
             "roasterID": 14,
+            "city": "Lajinha",
+            "state": "MG",
+            "instagramHandle": "hastenreitercafes",
+            "websiteURL": "https://www.hastenreitercafes.com/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -146,6 +229,13 @@
         {
             "name": "Treviso",
             "roasterID": 15,
+            "city": "Venda Nova do Imigrante",
+            "state": "ES",
+            "instagramHandle": "treviso.cafe",
+            "websiteURL": "https://www.trevisocafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -154,8 +244,15 @@
             ]
         },
         {
-            "name": "Tequila Café",
+            "name": "Tequila Cafés Especiais",
             "roasterID": 16,
+            "city": "Baependi",
+            "state": "MG",
+            "instagramHandle": "tequilacafeoficial",
+            "websiteURL": "https://tequilacafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -166,16 +263,33 @@
         {
             "name": "Sabino Coffee Co.",
             "roasterID": 17,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "sabinotorrefacao",
+            "websiteURL": "https://sabinocoffee.co",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": [
-                10
+                10,
+                12,
+                37,
+                29
             ]
         },
         {
             "name": "Hel Cafés",
             "roasterID": 18,
+            "city": "Novo Horizonte do Oeste",
+            "state": "RO",
+            "instagramHandle": "helcafes",
+            "websiteURL": "",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -184,18 +298,15 @@
             ]
         },
         {
-            "name": "Waku Waku",
-            "roasterID": 19,
-            "ownShops": [],
-            "ownCafes": [
-                12
-            ],
-            "clientShops": [],
-            "clientCafes": []
-        },
-        {
             "name": "Sofá",
             "roasterID": 20,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "sofacafesp",
+            "websiteURL": "https://www.sofacafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 13,
@@ -208,6 +319,13 @@
         {
             "name": "Amor Espresso",
             "roasterID": 21,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "amor_espresso",
+            "websiteURL": "https://amorespresso.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 16
@@ -218,6 +336,13 @@
         {
             "name": "Moka Clube",
             "roasterID": 22,
+            "city": "Pinhais",
+            "state": "PR",
+            "instagramHandle": "mokaclube",
+            "websiteURL": "https://www.mokaclube.com.br/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [
                 2,
                 3
@@ -227,8 +352,15 @@
             "clientCafes": []
         },
         {
-            "name": "Geek Baristas",
+            "name": "Geek Roasters",
             "roasterID": 23,
+            "city": "Santos",
+            "state": "SP",
+            "instagramHandle": "geekbaristas",
+            "websiteURL": "https://linktr.ee/geekbaristassc/",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 20
@@ -239,6 +371,13 @@
         {
             "name": "Fora Da Lei",
             "roasterID": 24,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "foradalei_cafe",
+            "websiteURL": "",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 23
@@ -249,6 +388,13 @@
         {
             "name": "Garagem do Café",
             "roasterID": 25,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "garagemdocafe",
+            "websiteURL": "https://garagemdocafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": true,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 24
@@ -261,6 +407,13 @@
         {
             "name": "Woodbird Café",
             "roasterID": 26,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "woodbirdcafe",
+            "websiteURL": "",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 27
@@ -269,18 +422,15 @@
             "clientCafes": []
         },
         {
-            "name": "Freak",
-            "roasterID": 27,
-            "ownShops": [],
-            "ownCafes": [
-                29
-            ],
-            "clientShops": [],
-            "clientCafes": []
-        },
-        {
             "name": "Kofi & Co.",
             "roasterID": 28,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "kofiandco",
+            "websiteURL": "https://linktr.ee/kofi_and_co_est_2016",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 30
@@ -289,8 +439,15 @@
             "clientCafes": []
         },
         {
-            "name": "Red Coffee",
+            "name": "Red Coffee & Co.",
             "roasterID": 29,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "redcoffeebrasil",
+            "websiteURL": "",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 32,
@@ -300,18 +457,15 @@
             "clientCafes": []
         },
         {
-            "name": "StreetMe Coffee",
-            "roasterID": 30,
-            "ownShops": [],
-            "ownCafes": [
-                34
-            ],
-            "clientShops": [],
-            "clientCafes": []
-        },
-        {
             "name": "True Coffee Inc.",
             "roasterID": 31,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "truecoffeeinc",
+            "websiteURL": "https://truecoffeeinc.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 35,
@@ -323,18 +477,14 @@
             ]
         },
         {
-            "name": "KOF — King of The Fork",
-            "roasterID": 32,
-            "ownShops": [],
-            "ownCafes": [
-                37
-            ],
-            "clientShops": [],
-            "clientCafes": []
-        },
-        {
             "name": "J. Café",
             "roasterID": 33,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "jcafesp",
+            "websiteURL": "",
+            "deliversNationwide": true,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 38
@@ -345,6 +495,13 @@
         {
             "name": "Dude Coffee Company",
             "roasterID": 34,
+            "city": "Caxias do Sul",
+            "state": "RS",
+            "instagramHandle": "dudecoffeecompany",
+            "websiteURL": "https://www.dudecompany.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -355,6 +512,13 @@
         {
             "name": "Flor de Março",
             "roasterID": 35,
+            "city": "Venda Nova do Imigrante",
+            "state": "ES",
+            "instagramHandle": "cafeflordemarco",
+            "websiteURL": "https://www.cafeflordemarco.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -365,6 +529,13 @@
         {
             "name": "Um Coffee Co.",
             "roasterID": 36,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "umcoffeeco",
+            "websiteURL": "https://umcoffeeco.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 51,
@@ -377,18 +548,15 @@
             ]
         },
         {
-            "name": "Unique Cafés",
-            "roasterID": 37,
-            "ownShops": [],
-            "ownCafes": [],
-            "clientShops": [],
-            "clientCafes": [
-                39
-            ]
-        },
-        {
             "name": "Cupping Café",
             "roasterID": 38,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "cuppingcafe",
+            "websiteURL": "https://www.cuppingcafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 40
@@ -399,6 +567,13 @@
         {
             "name": "Teto Café",
             "roasterID": 39,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "tetocafe",
+            "websiteURL": "https://linktr.ee/tetocafe",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 41
@@ -409,18 +584,33 @@
         {
             "name": "Coffee Lab",
             "roasterID": 40,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "coffeelab_br",
+            "websiteURL": "https://www.coffeelab.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
-            "ownCafes": [],
+            "ownCafes": [
+                42,
+                43
+            ],
             "clientShops": [],
             "clientCafes": []
         },
         {
             "name": "Coado Shop",
             "roasterID": 41,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "coadoshopcafe",
+            "websiteURL": "https://coadoshopcafe.lojavirtualnuvem.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
-                45,
-                46,
                 47
             ],
             "clientShops": [],
@@ -429,6 +619,13 @@
         {
             "name": "Siriema Coffee",
             "roasterID": 42,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "siriemacoffee",
+            "websiteURL": "https://siriemacoffeeroasters.com",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 59
@@ -441,6 +638,13 @@
         {
             "name": "Bogo Café",
             "roasterID": 43,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "bogo.cafe",
+            "websiteURL": "",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -452,6 +656,13 @@
         {
             "name": "4BEANS Coffee Co.",
             "roasterID": 44,
+            "city": "Curitiba",
+            "state": "PR",
+            "instagramHandle": "4beanscoffeeco",
+            "websiteURL": "https://www.4beanscoffeeco.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -462,6 +673,13 @@
         {
             "name": "Punga Cafés",
             "roasterID": 45,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "pungacafes",
+            "websiteURL": "https://pungacafes.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
@@ -472,36 +690,30 @@
         {
             "name": "Ito Cafés",
             "roasterID": 46,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "itocafesespeciais",
+            "websiteURL": "https://www.itocafesespeciais.com.br/index.html",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": [
                 50
             ]
-        },
-        {
-            "name": "Café da Rê",
-            "roasterID": 47,
-            "ownShops": [],
-            "ownCafes": [],
-            "clientShops": [],
-            "clientCafes": [
-                50
-            ]
-        },
-        {
-            "name": "Astronauta Café",
-            "roasterID": 48,
-            "ownShops": [],
-            "ownCafes": [
-                54
-            ],
-            "clientShops": [],
-            "clientCafes": []
         },
         {
             "name": "Kento Café",
             "roasterID": 49,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "kentocafe",
+            "websiteURL": "https://www.kentocafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 55
@@ -512,6 +724,13 @@
         {
             "name": "Pato Rei",
             "roasterID": 50,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "patoreisp",
+            "websiteURL": "https://patoreisp.com.br/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 56,
@@ -523,6 +742,13 @@
         {
             "name": "Sensory Coffee Roasters",
             "roasterID": 51,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "sensorycoffeeroasters",
+            "websiteURL": "https://sensorycoffeeroasters.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 60,
@@ -534,6 +760,13 @@
         {
             "name": "Café zinn",
             "roasterID": 52,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "ocafezinn",
+            "websiteURL": "https://linktr.ee/Cafezinn",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 62,
@@ -545,6 +778,13 @@
         {
             "name": "Soul Café",
             "roasterID": 53,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "soulcafesp",
+            "websiteURL": "https://soulcafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 64
@@ -555,6 +795,13 @@
         {
             "name": "URBE",
             "roasterID": 54,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "urbecafebar",
+            "websiteURL": "https://www.urbecafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 65,
@@ -566,6 +813,13 @@
         {
             "name": "Il Barista",
             "roasterID": 55,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "ilbaristacafes",
+            "websiteURL": "https://www.ilbaristacafes.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 55,
@@ -581,6 +835,13 @@
         {
             "name": "Brazuca Coffee",
             "roasterID": 56,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "brazucacoffeebr",
+            "websiteURL": "https://brazucacoffee.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 72
@@ -591,6 +852,13 @@
         {
             "name": "Café Manacá",
             "roasterID": 57,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "cafe_manaca",
+            "websiteURL": "",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [
                 73
@@ -601,6 +869,13 @@
         {
             "name": "Mel de Uruçu",
             "roasterID": 58,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "meldeurucucafe",
+            "websiteURL": "https://www.meldeurucucafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 74
@@ -611,43 +886,175 @@
         {
             "name": "Catarina Coffee & Love",
             "roasterID": 59,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "catarina.cafeeamor",
+            "websiteURL": "https://www.catarinacafeeamor.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": true,
+            "onlineShopping": true,
             "ownShops": [],
-            "ownCafes": [],
+            "ownCafes": [
+                75
+            ],
             "clientShops": [],
             "clientCafes": []
         },
         {
             "name": "Tocaya",
             "roasterID": 60,
+            "city": "Itajubá",
+            "state": "MG",
+            "instagramHandle": "atocaya",
+            "websiteURL": "https://tocaya.com.br/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": [
+                77
+            ]
+        },
+        {
+            "name": "Oceano Café",
+            "roasterID": 61,
+            "city": "Florianópolis",
+            "state": "SC",
+            "instagramHandle": "oceano.cafe",
+            "websiteURL": "",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": []
         },
         {
-            "name": "Oceano Café",
-            "roasterID": 61,
-            "ownShops": [],
-            "ownCafes": [],
-            "clientShops": [],
-            "clientCafes": [
-                80
-            ]
-        },
-        {
             "name": "Over Coffee Roasters",
             "roasterID": 62,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "overcoffeeroasters",
+            "websiteURL": "https://overcoffee.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
             "ownShops": [],
             "ownCafes": [
                 81
             ],
             "clientShops": [],
             "clientCafes": []
+        },
+        {
+            "name": "Romance Cafe",
+            "roasterID": 63,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "romancecaffee",
+            "websiteURL": "",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "onlineShopping": false,
+            "ownShops": [],
+            "ownCafes": [
+                82
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Culto Café",
+            "roasterID": 64,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "cultocafe.br",
+            "websiteURL": "https://cafeculto.com.br",
+            "deliversNationwide": false,
+            "foreignCoffee": true,
+            "onlineShopping": true,
+            "ownShops": [],
+            "ownCafes": [
+                83
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Ramita Cafés",
+            "roasterID": 65,
+            "city": "Campo Grande",
+            "state": "MS",
+            "instagramHandle": "ramitacafes",
+            "websiteURL": "https://www.loja.ramitacafes.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Coffee Taste",
+            "roasterID": 66,
+            "city": "Araraquara",
+            "state": "SP",
+            "instagramHandle": "coffeetaste.republica_sp",
+            "websiteURL": "https://www.coffeetaste.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "ownShops": [],
+            "ownCafes": [
+                84
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "A Arca",
+            "roasterID": 67,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "arca.cafesespeciais",
+            "websiteURL": "https://www.ifood.com.br/delivery/sao-paulo-sp/a-arca-cafes-especiais-pinheiros/",
+            "deliversNationwide": false,
+            "foreignCoffee": false,
+            "ownShops": [],
+            "ownCafes": [
+                85,
+                86
+            ],
+            "clientShops": [],
+            "clientCafes": []
+        },
+        {
+            "name": "Academia do Café",
+            "roasterID": 68,
+            "city": "Belo Horizonte",
+            "state": "MG",
+            "instagramHandle": "academiadocafe",
+            "websiteURL": "https://www.academiadocafe.com.br",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
         },{
-        "name": "Romance Cafe",
-        "roasterID": 63,
+        "name": "Noete Café",
+        "roasterID": 69,
+        "city": "Belo Horizonte",
+        "state": "MG",
+        "instagramHandle": "noetecafeclube",
+        "websiteURL": "https://noete.com.br",
+        "deliversNationwide": true,
+        "foreignCoffee": false,
         "ownShops": [],
-        "ownCafes": [82],
+        "ownCafes": [],
         "clientShops": [],
         "clientCafes": []
         }
