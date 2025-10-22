@@ -1044,6 +1044,21 @@
             "ownCafes": [],
             "clientShops": [],
             "clientCafes": []
+        },
+        {
+            "name": "Cafés Venus",
+            "roasterID": 70,
+            "city": "São Paulo",
+            "state": "SP",
+            "instagramHandle": "cafesvenus",
+            "websiteURL": "https://www.cafesvenus.com.br/",
+            "deliversNationwide": true,
+            "foreignCoffee": false,
+            "onlineShopping": true,
+            "ownShops": [],
+            "ownCafes": [],
+            "clientShops": [],
+            "clientCafes": []
         }
     ]
 }
