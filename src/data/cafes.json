@@ -4053,7 +4053,7 @@
     "espressoPrice": "8.90",
     "veganMilk": true,
     "petFriendly": false,
-    "hostsEvents": false,
+    "hostsEvents": true,
     "foreignCoffee": false,
     "brewingMethods": {
     "espresso": true,

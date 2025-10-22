@@ -289,7 +289,7 @@
             "websiteURL": "",
             "deliversNationwide": true,
             "foreignCoffee": false,
-            "onlineShopping": true,
+            "onlineShopping": false,
             "ownShops": [],
             "ownCafes": [],
             "clientShops": [],
