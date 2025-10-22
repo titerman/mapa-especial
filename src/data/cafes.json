@@ -3961,6 +3961,126 @@
     "coordinates": [-23.57378497038032, -46.62254545389833],
     "type": "Point"
     }
+    },{
+    "type": "Feature",
+    "id": "92",
+    "properties": {
+    "name": "Longão",
+    "instagramHandle": "",
+    "websiteURL": "",
+    "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d228.60463518697733!2d-46.64920337731796!3d-23.544219025476828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce593eef4778dd%3A0x86acb5061686e190!2zTG9uZ8Ojbw!5e0!3m2!1sen!2sbr!4v1761096287891!5m2!1sen!2sbr",
+    "roasters": [],
+    "espressoPrice": "10",
+    "veganMilk": true,
+    "petFriendly": false,
+    "hostsEvents": false,
+    "foreignCoffee": false,
+    "brewingMethods": {
+    "espresso": true,
+    "batchBrew": false,
+    "hario": true,
+    "chemex": false,
+    "aeropress": false,
+    "frenchPress": false,
+    "oriental": false,
+    "moka": false
+    },
+    "food": {
+    "desserts": true,
+    "breakfast": true,
+    "snacks": true,
+    "mainDishes": false,
+    "vegFood": false
+    },
+    "shop": {
+    "coffeeBeans": false,
+    "equipment": false,
+    "merch": false
+    }
+    }, "geometry": {
+    "coordinates": [-23.54426943322614, -46.64900087043111],
+    "type": "Point"
+    }
+    },{
+    "type": "Feature",
+    "id": "93",
+    "properties": {
+    "name": "NOTTHESAMO",
+    "instagramHandle": "notthesamocafe",
+    "websiteURL": "https://notthesamo.com",
+    "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.4190357955894!2d-46.650783726458734!3d-23.544147837371472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce599cf2aec15d%3A0x18aa926633f97128!2sNOTTHESAMO%20Caf%C3%A9%20Vila%20Buarque!5e0!3m2!1sen!2sbr!4v1761096206914!5m2!1sen!2sbr",
+    "roasters": [],
+    "espressoPrice": "10",
+    "veganMilk": true,
+    "petFriendly": false,
+    "hostsEvents": false,
+    "foreignCoffee": false,
+    "brewingMethods": {
+    "espresso": true,
+    "batchBrew": false,
+    "hario": true,
+    "chemex": false,
+    "aeropress": false,
+    "frenchPress": false,
+    "oriental": false,
+    "moka": false
+    },
+    "food": {
+    "desserts": true,
+    "breakfast": false,
+    "snacks": false,
+    "mainDishes": false,
+    "vegFood": false
+    },
+    "shop": {
+    "coffeeBeans": false,
+    "equipment": false,
+    "merch": false
+    }
+    }, "geometry": {
+    "coordinates": [-23.54409483128785, -46.65019125691941],
+    "type": "Point"
+    }
+    },{
+    "type": "Feature",
+    "id": "94",
+    "properties": {
+    "name": "Amicitia Café",
+    "instagramHandle": "amicitiacafe",
+    "websiteURL": "",
+    "googleMapsEmbedURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1669.520748720562!2d-46.30706342196!3d-23.979627033365336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce03dc2d6ea4eb%3A0xda052b1bda567f36!2sAmicitia%20Caf%C3%A9!5e0!3m2!1sen!2sbr!4v1761096628814!5m2!1sen!2sbr",
+    "roasters": [],
+    "espressoPrice": "8.90",
+    "veganMilk": true,
+    "petFriendly": false,
+    "hostsEvents": false,
+    "foreignCoffee": false,
+    "brewingMethods": {
+    "espresso": true,
+    "batchBrew": false,
+    "hario": true,
+    "chemex": false,
+    "aeropress": false,
+    "frenchPress": false,
+    "oriental": false,
+    "moka": false
+    },
+    "food": {
+    "desserts": false,
+    "breakfast": false,
+    "snacks": false,
+    "mainDishes": false,
+    "vegFood": false
+    },
+    "shop": {
+    "coffeeBeans": false,
+    "equipment": false,
+    "merch": false
+    }
+    }, "geometry": {
+    "coordinates": [-23.97925889892226, -46.30762356136964],
+    "type": "Point"
+    }
     }
   ]
 }
