@@ -11,12 +11,12 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         {generateNextSeo({
-          title: "Mapa Especial — Cafeterias e Torradores na Grande São Paulo e Baixada Santista",
+          title: "Mapa Especial — Cafeterias e Torradores em São Paulo",
           description: "Descubra cafeterias, torradores, e lojas com café especial de órigem única e ética.",
           canonical: "https://mapaespecial.com",
           openGraph: {
             url: "https://mapaespecial.com",
-            title: "Mapa Especial — Cafeterias e Torradores na Grande São Paulo e Baixada Santista",
+            title: "Mapa Especial — Cafeterias e Torradores em São Paulo",
             description: "Descubra cafeterias, torradores, e lojas com café especial de órigem única e ética.",
             images: [
               {
